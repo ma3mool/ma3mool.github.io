@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D Candidate in Computer Science, University of Illinois at Urbana-Champaign, 2019 (expected)
+** Advisor: Dr. Sarita Adve
+* B.S.E. in Electrical Engineering, Princeton University, 2013
+** Certificate: Applications of Computing
+** Advisors: Dr. David Wentzlaff and Dr. Sharad Malik
 
 Work experience
 ======
