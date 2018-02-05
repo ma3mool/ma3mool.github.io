@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D Candidate in Computer Science, University of Illinois at Urbana-Champaign, 2019 (expected)
-** Advisor: Dr. Sarita Adve
+  * Advisor: Dr. Sarita Adve
 * B.S.E. in Electrical Engineering, Princeton University, 2013
-** Certificate: Applications of Computing
-** Advisors: Dr. David Wentzlaff and Dr. Sharad Malik
+  * Certificate: Applications of Computing
+  * Advisors: Dr. David Wentzlaff and Dr. Sharad Malik
 
 Work experience
 ======
