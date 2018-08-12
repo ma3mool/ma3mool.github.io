@@ -43,11 +43,33 @@
           {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% elsif post.collection == 'publications' %}
 	<!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-      ; {{ post.authors }}; <font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }} </font> 
+      ; {{ post.authors }}; <font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }} </font>. 
       {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
      {% endif %}
-     .
+     
+
+    <!-- Acceptance Rate -->
+    {% if post.acceptance_rate %}
+      <br>Acceptance Rate: {{ post.acceptance_rate}}</br>
+    {% endif %}
+
+
+    <!-- PDF -->
+    {% if post.abstract and post.paperurl %}
+      <br><a href="{{ post.abstract }}">Abstract</a> \&nbsp;
+      <a href="{{ post.paperurl }}">Full Text</a>
+    {% elsif post.paperurl %}
+      <br><a href="{{ post.abstract }}">Abstract</a> 
+    {% endif %}
+
+
+    <!-- Other -->
+    {% if post.other %}
+      <br>{{ post.other }}
+    {% endif %}
+
+
     </p>
    
 
@@ -64,27 +86,14 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
-	-->
-
-    {% if post.acceptance_rate %}
-      <p>Acceptance Rate: {{ post.acceptance_rate}}</p>
-    {% endif %}
-
-    {% if post.abstract and post.paperurl %}
-      <p><a href="{{ page.abstract }}">Abstract</a> \&nbsp 
-      <a href="{{ page.paperurl }}">Full Text</a> </p>
-    {% endif %}
-
-    {% if post.other %}
-      <p>{{ post.other }}</p>
-    {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-  
+	-->
+
     </li> 
   </article>
   </ul>
