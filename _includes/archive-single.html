@@ -42,21 +42,24 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% if post.acceptance_rate %}
-             <p>Acceptance Rate: {{ post.acceptance_rate}}</p>
-    	  {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
   
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p>
+    <!--<p>Recommended citation: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p> -->
+    <!--<p>PDF: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p> -->
+      <p>Citation: <u>{{ post.citation }}</u></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
  
+    {% if post.acceptance_rate %}
+      <p>Acceptance Rate: {{ post.acceptance_rate}}</p>
+    {% endif %}
+
     {% if post.other %}
       <p>{{ post.other }}</p>
     {% endif %}
