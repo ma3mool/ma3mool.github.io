@@ -62,7 +62,12 @@ layout: default
           <p><a href="{{ page.abstract }}">Abstract</a> &nbsp\&nbsp 
 	     <a href="{{ page.paperurl }}">Full Text</a> </p>
         {% endif %}
-        
+     
+	{% if page.other %}
+	   <p>{{ page.other}}</p>
+        {% endif %}
+
+    
 	
 	</header>
       {% endunless %}
