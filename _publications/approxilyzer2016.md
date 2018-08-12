@@ -10,6 +10,8 @@ acceptance_rate: 21.6%
 read_more: disabled
 paperurl: 'http://ma3mool.github.io/files/16-MICRO-approxilyzer.pdf'
 ---
+
+
 Approxilyzer is an open-source framework for instruction level approximation and resiliency.
 Approxilyzer provides a systematic way to identify instructions that exhibit first-order 
 approximation potential. It can also identify silent data corruption (SDC) causing 
