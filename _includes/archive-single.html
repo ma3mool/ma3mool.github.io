@@ -59,17 +59,19 @@
     <!-- PDF -->
     {% if post.abstract and post.paperurl %}
       <br>
-        <u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></font></u> 
-	/&nbsp
-	<u><font color="blue"><a href="{{ post.paperurl }}">Full Text</a></font></u>
+        <font color="#0000EE"><a href="{{ post.abstract }}">Abstract</a></font> 
+	/ 
+	<font color="#0000EE"><a href="{{ post.paperurl }}">Full Text</a></font>
     {% elsif post.paperurl %}
-        <br><u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></font></u>
+      <br>
+	<font color="#0000EE"><a href="{{ post.abstract }}">Abstract</a></font></u>
     {% endif %}
 
 
     <!-- Other -->
     {% if post.other %}
-      <br>{{ post.other }}
+      <br>
+        <font color="red">{{ post.other }}</font>
     {% endif %}
 
 
