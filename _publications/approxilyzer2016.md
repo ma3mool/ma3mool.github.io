@@ -8,14 +8,6 @@ venue: 'MICRO-49'
 location: Taipei, Taiwan
 acceptance_rate: 21.6%
 paperurl: 'http://ma3mool.github.io/files/16-MICRO-approxilyzer.pdf'
+citation: 'Radha Venkatagiri, <b>Abdulrahman Mahmoud</b>, Siva Kumar Sastry Hari, and Sarita Adve. 2016. &quot;Approxilyzer: Towards A Systematic Framework for Instruction-Level Approximate Computing and its Application to Hardware Resiliency&quot; <i>2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)</i>.'
 ---
-[Radha Venkatagiri, <b>Abdulrahman Mahmoud</b>, Siva Kumar Sastry Hari, and Sarita Adve. 2016. &quot;Approxilyzer: Towards A Systematic Framework for Instruction-Level Approximate Computing and its Application to Hardware Resiliency&quot; <i>2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)</i>.](http://ma3mool.github.io/files/16-MICRO-approxilyzer.pdf)
-
-Approxilyzer is an open-source framework for instruction level approximation and resiliency.
-Approxilyzer provides a systematic way to identify instructions that exhibit first-order 
-approximation potential. It can also identify silent data corruption (SDC) causing 
-instructions in the presence of single-bit errors. Approxilyzer employs static and 
-dynamic analysis, in addition to heuristics, to reduce the run-time of finding 
-Approximate instructions and SDC-causing instructions by 3-6x orders of magnitude.
-
-You can download Approxilyzer [from here](http://cs.illinois.edu/approxilyzer).
+Approxilyzer is open-sourced, [available here](http://cs.illinois.edu/approxilyzer).
