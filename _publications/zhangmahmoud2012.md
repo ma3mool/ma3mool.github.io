@@ -4,7 +4,8 @@ authors: "Shuyuan Zhang, <b>Abdulrahman Mahmoud</b>, Sharad Malik, and Sanjai Na
 collection: publications
 permalink: /publication/zhangmahmoud2012
 date: 2012-10-01
-venue: 'International Conference on Network Protocols (ICNP)'
+venue: 'International Conference on Network Protocols'
+conf_shorthand: 'ICNP'
 acceptance_rate: 22.9%
 abstract: 'https://ieeexplore.ieee.org/document/6459944/'
 paperurl: 'http://ma3mool.github.io/files/zhangmahmoud2012.pdf'

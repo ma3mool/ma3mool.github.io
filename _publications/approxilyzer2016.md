@@ -4,7 +4,8 @@ authors: "Radha Venkatagiri, <b>Abdulrahman Mahmoud</b>, Siva Kumar Sastry Hari,
 collection: publications
 permalink: /publication/approxilyzer2016
 date: 2016-10-15
-venue: 'International Symposium on Microarchitecture (MICRO)' 
+venue: 'International Symposium on Microarchitecture' 
+conf_shorthand: 'MICRO'
 location: Taipei, Taiwan
 acceptance_rate: 21.6%
 abstract: 'https://ieeexplore.ieee.org/document/7783745/'
