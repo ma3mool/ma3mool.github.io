@@ -3,7 +3,7 @@ title: "Approxilyzer: Towards A Systematic Framework for Instruction-Level Appro
 collection: publications
 permalink: /publication/approxilyzer2016
 date: 2016-10-15
-venue: 'MICRO 16'
+venue: 'MICRO-49'
 location: Taipei, Taiwan
 paperurl: 'http://ma3mool.github.io/files/16-MICRO-approxilyzer.pdf'
 ---

@@ -81,7 +81,7 @@ author:
   name             : "Abdulrahman Mahmoud"
   avatar           : "abdulrahman.jpg"
   bio              : "Computer Science PhD Candidate at University of Illinois @ Urbana-Champaign"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LRZKQpkAAAAJ&hl=en"
   email            :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abdulrahman-mahmoud-a9206b57/"
+  linkedin         : "abdulrahman-mahmoud-a9206b57/"
   orcid            : 
   pinterest        :
   soundcloud       :
