@@ -4,8 +4,9 @@ authors: "Shuyuan Zhang, <b>Abdulrahman Mahmoud</b>, Sharad Malik, and Sanjai Na
 collection: publications
 permalink: /publication/zhangmahmoud2012
 date: 2012-10-01
-venue: 'ICNP'
+venue: 'ICNP - International Conference on Network Protocols'
 paperurl: 'http://ma3mool.github.io/files/zhangmahmoud2012.pdf'
-citation: 'Shuyuan Zhang, <b>Abdulrahman Mahmoud</b>, Sharad Malik, and Sanjai Narain. 2012. "Verification and Synthesis of Firewalls Using Sat and QBF" In Proceedings of the 2012 20th IEEE International Conference on Network Protocols (ICNP '12).'
+citation: 'Shuyuan Zhang, <b>Abdulrahman Mahmoud</b>, Sharad Malik, and Sanjai Narain. 2012. &quot;Verification and Synthesis of Firewalls Using Sat and QBF,&quot; <i>2012 20th IEEE International Conference on Network Protocols (ICNP)</i>, Austin, TX, 2012, pp. 1-6.'
 ---
+
 
