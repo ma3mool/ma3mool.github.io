@@ -41,7 +41,6 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Authors: {{ post.authors }}</p>
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% if post.acceptance_rate %}
              <p>Acceptance Rate: {{ post.acceptance_rate}}</p>
@@ -51,7 +50,6 @@
         {% endif %}
   
     {% if post.citation and post.paperurl %}
-    <!--<p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p> -->
       <p>Recommended citation: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
@@ -59,6 +57,10 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
  
+    {% if post.other %}
+      <p>{{ post.other }}</p>
+    {% endif %}
+
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
