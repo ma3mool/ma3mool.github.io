@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/approxilyzer2016
 date: 2016-10-15
 venue: 'International Symposium on Microarchitecture' 
+venue_type: conference
 conf_shorthand: 'MICRO'
 location: Taipei, Taiwan
 acceptance_rate: 21.6%

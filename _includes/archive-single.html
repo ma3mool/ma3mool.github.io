@@ -44,7 +44,15 @@
           {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% elsif post.collection == 'publications' %}
 	<!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-      ; {{ post.authors }}; <font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>. 
+      ; {{ post.authors }}; 
+      	{% if post.venue_type == 'conference' %}
+	   <font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>. 
+        {% elsif post.venue_type == 'workshop' %}
+	   <font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>. 
+        {% else %}
+	    {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}. 
+        {% endif %}
+
       {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
      {% endif %}
@@ -64,7 +72,7 @@
 	<font color="#0000EE"><a href="{{ post.paperurl }}">Full Text</a></font>
     {% elsif post.paperurl %}
       <br>
-	<font color="#0000EE"><a href="{{ post.abstract }}">Abstract</a></font></u>
+	<font color="#0000EE"><a href="{{ post.paperurl }}">Full Text</a></font>
     {% endif %}
 
 
@@ -77,7 +85,6 @@
 
     </p>
    
-
     <!-- Print supporting text -->
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
