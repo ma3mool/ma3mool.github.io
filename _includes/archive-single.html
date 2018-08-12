@@ -49,7 +49,7 @@
     {% if post.citation and post.paperurl %}
     <!--<p>Recommended citation: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p> -->
     <!--<p>PDF: <a href="{{ post.paperurl }}"><u>{{ post.citation }}</u></a></p> -->
-      <p>Citation: <u>{{ post.citation }}</u></p>
+      <p>{{ post.citation }}</p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
@@ -58,6 +58,11 @@
  
     {% if post.acceptance_rate %}
       <p>Acceptance Rate: {{ post.acceptance_rate}}</p>
+    {% endif %}
+
+    {% if page.paperurl and page.abstract %}
+      <p><a href="{{ page.abstract }}">Abstract</a> \&nbsp 
+      <a href="{{ page.paperurl }}">Full Text</a> </p>
     {% endif %}
 
     {% if post.other %}
