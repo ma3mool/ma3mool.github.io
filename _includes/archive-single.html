@@ -13,6 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+  <ul>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li> 
     {% if include.type == "grid" and teaser %}
@@ -57,10 +58,12 @@
 
     <!-- PDF -->
     {% if post.abstract and post.paperurl %}
-    <br><u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></u></font> /&nbsp;
-    <u><font color="blue"><a href="{{ post.paperurl }}">Full Text</a></u></font>
+      <br>
+        <u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></font></u> 
+	/&nbsp
+	<u><font color="blue"><a href="{{ post.paperurl }}">Full Text</a></font></u>
     {% elsif post.paperurl %}
-      <br><u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></u></font>
+        <br><u><font color="blue"><a href="{{ post.abstract }}">Abstract</a></font></u>
     {% endif %}
 
 
@@ -96,4 +99,5 @@
 
     </li> 
   </article>
+  </ul>
 </div>
