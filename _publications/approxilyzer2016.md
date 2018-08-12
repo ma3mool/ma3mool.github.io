@@ -6,7 +6,7 @@ permalink: /publication/approxilyzer2016
 date: 2016-10-15
 venue: 'MICRO-49'
 location: Taipei, Taiwan
-acceptance-rage: 21.6%
+acceptance-rate: 21.6%
 paperurl: 'http://ma3mool.github.io/files/16-MICRO-approxilyzer.pdf'
 ---
 
