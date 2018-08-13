@@ -1,6 +1,6 @@
 ---
 title: "Towards More Precision in Approximate Computing"
-authors: "Radha Venkatagiri, <b>Abdulrahman Mahmoud</b>, and Sarita Adve"
+authors: "Radha Venkatagiri, <u>Abdulrahman Mahmoud</u>, and Sarita Adve"
 collection: publications
 permalink: /publication/approxilyzer2016
 date: 2016-4-2

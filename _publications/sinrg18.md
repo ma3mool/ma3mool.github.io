@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Software-Directed Instruction Replication for GPU Error Detection"
-authors: "<b>Abdulrahman Mahmoud</b>, Siva Kumar Sastry Hari, Michael Sullivan, Timothy Tsai, and Stephen W. Keckler"
+authors: "<u>Abdulrahman Mahmoud</u>, Siva Kumar Sastry Hari, Michael Sullivan, Timothy Tsai, and Stephen W. Keckler"
 collection: publications
 permalink: /publication/sinrg2018
 date: 2018-11-11

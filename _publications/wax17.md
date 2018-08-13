@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Software Testing to Explore Input Dependence for Approximate Computing"
-authors: "<b>Abdulrahman Mahmoud</b>, Radha Venkatagiri, Khalique Ahmed, Sarita Adve, Darko Marinov, and Sasa Misailovic"
+authors: "<u>Abdulrahman Mahmoud</u>, Radha Venkatagiri, Khalique Ahmed, Sarita Adve, Darko Marinov, and Sasa Misailovic"
 collection: publications
 permalink: /publication/approxilyzer2016
 date: 2017-4-15

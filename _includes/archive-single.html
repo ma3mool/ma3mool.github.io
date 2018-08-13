@@ -46,11 +46,11 @@
 	<!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
       ; {{ post.authors }}; 
       	{% if post.venue_type == 'conference' %}
-	   <font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>. 
+	   <strong><font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>. 
         {% elsif post.venue_type == 'workshop' %}
-	   <font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>. 
+	   <strong><font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>. 
         {% else %}
-	    {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}. 
+	    <strong>{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</strong>. 
         {% endif %}
 
       {% elsif post.date %}
@@ -78,8 +78,7 @@
 
     <!-- Other -->
     {% if post.other %}
-      <br>
-        <font color="red">{{ post.other }}</font>
+      <br>{{ post.other }}
     {% endif %}
 
 

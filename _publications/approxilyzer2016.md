@@ -1,6 +1,6 @@
 ---
 title: "Approxilyzer: Towards A Systematic Framework for Instruction-Level Approximate Computing and its Application to Hardware Resiliency"
-authors: "Radha Venkatagiri, <b>Abdulrahman Mahmoud</b>, Siva Kumar Sastry Hari, and Sarita Adve"
+authors: "Radha Venkatagiri, <u>Abdulrahman Mahmoud</u>, Siva Kumar Sastry Hari, and Sarita Adve"
 collection: publications
 permalink: /publication/approxilyzer2016
 date: 2016-10-15
