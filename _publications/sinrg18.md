@@ -9,5 +9,5 @@ venue_type: conference
 conf_shorthand: 'SC'
 location: Dallas, Texas
 acceptance_rate: 19.1%
-other: (To appear) 
+other: (To appear in SC' 18) 
 ---

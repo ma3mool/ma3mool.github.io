@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/zhangmahmoud2012
 date: 2012-10-01
 venue: 'International Conference on Network Protocols'
+venue_type: 'conference'
 conf_shorthand: 'ICNP'
 acceptance_rate: 22.9%
 abstract: 'https://ieeexplore.ieee.org/document/6459944/'
