@@ -2,7 +2,7 @@
 title: "Towards More Precision in Approximate Computing"
 authors: "Radha Venkatagiri, <u>Abdulrahman Mahmoud</u>, and Sarita Adve"
 collection: publications
-permalink: /publication/approxilyzer2016
+permalink: /publication/wax16
 date: 2016-4-2
 venue: 'Workshop on Approximate Computing Across the Stack' 
 venue_type: workshop 
