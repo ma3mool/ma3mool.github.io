@@ -1,10 +1,10 @@
 ---
 title: "Photonic Implementation of Bio-Inspired Jamming Avoidance Response Architecture"
 collection: talks
-type: "REU Presentation"
+type: "Poster Presentation"
 permalink: /talks/2011-08-01-MIRTHE-REU
 venue: "MIRTHE REU"
-date: 2011-08-01
+date: 2011-08-08
 location: "Princeton NJ, USA"
 ---
 
