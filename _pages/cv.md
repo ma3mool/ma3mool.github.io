@@ -30,24 +30,24 @@ Awards and Distinctions
 
 Internships
 ======
-* **Summer 2018: Graduate Research Intern, at NVIDIA**
+* **[Summer 2018] Graduate Research Intern, at NVIDIA**
   * Santa Clara, CA
   * Research Topic: Neural network reliability
   * Supervisor: Steve Keckler
   * Mentor: Siva Hari
 
-* **Summer 2017: Graduate Research Intern, at NVIDIA**
+* **[Summer 2017] Graduate Research Intern, at NVIDIA**
   * Santa Clara, CA
   * Research Topic: General-purpose GPU reliability
   * Supervisor: Steve Keckler
   * Mentor: Siva Hari
 
-* **Summer 2013: Software Design Architect, at iDirect**
+* **[Summer 2013] Software Design Architect, at iDirect**
   * Herndon, VA
   * Project: Platform design for remote modems.
   * Supervisor: Assem Salama
 
-* **Summer 2011: REU: Mid-InfraRed Technologies for Health and Environment, at Princeton University**
+* **[Summer 2011] REU: Mid-InfraRed Technologies for Health and Environment, at Princeton University**
   * Princeton, NJ
   * Project: Jamming avoidance response circuits.
   * Supervisor: Dr. Paul Prucnal

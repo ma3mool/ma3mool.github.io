@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in computer science at UIUC, advised by Professor Sarita Adve (link) in the RSim Research Group (link). 
+I am a graduate student in computer science at [UIUC](https://cs.illinois.edu/), advised by [Dr.Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) in the [RSim Research Group](http://rsim.cs.illinois.edu/). 
 
 
 Research Interests 
 ======
-My primary research interests are in computer architecture, reliability, approximate computing, and heterogeneous computing. I am also broadly interested in operating systems, compilers, security, software testing, and neuromorphic processing.
+My primary research interests are in computer architecture, reliability, approximate computing, and heterogeneous computing. 
 
 Research Statement
 ======
