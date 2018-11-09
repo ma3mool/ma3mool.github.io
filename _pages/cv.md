@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Computer Science, University of Illinois at Urbana-Champaign, 2020 (expected)
+* **University of Illinois at Urbana-Champaign**
+  * Ph.D Candidate in Computer Science
   * Advisor: Dr. Sarita Adve
-* B.S.E. in Electrical Engineering, Princeton University, 2013
+* **Princeton University**, 2013
+  * B.S.E. in Electrical Engineering
   * Certificate: Applications of Computing
   * Advisors: Dr. David Wentzlaff and Dr. Sharad Malik
 
-Awards and Honors
+Awards and Distinctions 
 =====
 * [2015] List of Teachers Ranked as Excellent by their Students (Campus Award)
 * [2013] John Ogden Bigelow Jr. Prize in Electrical Engineering ($3,000)
@@ -26,26 +28,26 @@ Awards and Honors
 * [2012] Friedland Independent Work Fund for Junior Undergrad Research ($1,135)
 * [2011] Accenture SEAS Senior Thesis Fund for Junior Undergrad Research ($2,000)
 
-Internships/Experience
+Internships
 ======
-* Summer 2018: Graduate Research Intern, at NVIDIA
+* **Summer 2018: Graduate Research Intern, at NVIDIA**
   * Santa Clara, CA
   * Research Topic: Neural network reliability
   * Supervisor: Steve Keckler
   * Mentor: Siva Hari
 
-* Summer 2017: Graduate Research Intern, at NVIDIA
+* **Summer 2017: Graduate Research Intern, at NVIDIA**
   * Santa Clara, CA
   * Research Topic: General-purpose GPU reliability
   * Supervisor: Steve Keckler
   * Mentor: Siva Hari
 
-* Summer 2013: Software Design Architect, at iDirect
+* **Summer 2013: Software Design Architect, at iDirect**
   * Herndon, VA
   * Project: Platform design for remote modems.
   * Supervisor: Assem Salama
 
-* Summer 2011: REU: Mid-InfraRed Technologies for Health and Environment, at Princeton University
+* **Summer 2011: REU: Mid-InfraRed Technologies for Health and Environment, at Princeton University**
   * Princeton, NJ
   * Project: Jamming avoidance response circuits.
   * Supervisor: Dr. Paul Prucnal
@@ -68,6 +70,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
+Activities and Memberships
+======
+* [2019] **Mentor**: URAP - Undergraduate Research Apprenticeship Program
+* [2018] **Mentor**: PURE - Promoting Undergraduate Research in Engineering
+* [2014-Present] **Member**: UIUC Graduate Ambassador
+* [2013-Present] **Member**: IEEE
+* [2013-Present] **Member**: ACM
+
+
 Skills
 ======
 * Programming Languages:
@@ -98,14 +109,4 @@ Skills
   * Drupal
 * Other
   * Machine Shop Certified 
-
-Service and leadership
-======
-* [2019] Mentor: URAP - Undergraduate Research Apprenticeship Program
-* [2018] Mentor: PURE - Promoting Undergraduate Research in Engineering
-* [2014-Present] Member: UIUC Graduate Ambassador
-* [2013-Present] Member: IEEE
-* [2013-Present] Member: ACM
-
-
 
