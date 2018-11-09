@@ -18,6 +18,4 @@ My primary research interests are in computer architecture, reliability, approxi
 Research Statement
 ======
 As hardware technology scales, efficient resiliency solutions are needed to address the increased likelihood of hardware errors. My research focuses on protecting against hardware errors using software techniques. I have explored reducing resiliency overheads by leveraging software testing techniques, finding approximation oppurtunities
-to reduce resiliency needs, and techniques for reducing instruction duplication in software. I am interested in studying cross-architectural resiliency, and extending prior work in the CPU domain to GPUs and accelerators of the future.
-
-
+to reduce resiliency needs, and techniques for reducing instruction duplication in software. My current research is focused on DNN reliability and adapting software testing techniques to improve resiliency analysis.
