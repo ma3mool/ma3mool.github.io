@@ -1,5 +1,5 @@
 ---
-title: "Lab TA for ELE302: System Design and Analysis"
+title: "ELE302: System Design and Analysis"
 collection: teaching
 type: "Lab TA"
 permalink: /teaching/2013-spring

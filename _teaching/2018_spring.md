@@ -1,5 +1,5 @@
 ---
-title: "Instructor for KGSP: Introduction to Computer Science"
+title: "KGSP: Introduction to Computer Science"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2018-spring
