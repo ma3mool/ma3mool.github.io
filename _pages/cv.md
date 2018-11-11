@@ -81,32 +81,9 @@ Activities and Memberships
 
 Skills
 ======
-* Programming Languages:
-  * Java
-  * C/C++
-  * Charm++
-  * Matlab
-  * Bash
-  * Python
-  * AWK
-  * Verilog
-  * Perl
-* Operating Systems
-  * Ubuntu
-  * Debian
-  * RedHat
-  * CentOS
-  * Scientific Linux
-  * Gentoo
-  * Microsoft Windows
-* Simulators/Frameworks
-  * GEMS
-  * gem5
-  * SIMICS
-  * PyTorch
-* Web Design
-  * Dreamweaver
-  * Drupal
-* Other
-  * Machine Shop Certified 
+* **Programming Languages:** Java, C, C++, Charm++, Matlab, Bash, Python, AWK, Verilog, Perl,
+* **Operating Systems:** Ubuntu, Debian, RedHat, CentOS, Scientific Linux, Gentoo, Microsoft Windows
+* **Simulators/Frameworks:** GEMS, gem5, SIMICS, PyTorch
+* **Web Design:** Dreamweaver, Drupal
+* **Other:** Machine Shop Certified 
 
