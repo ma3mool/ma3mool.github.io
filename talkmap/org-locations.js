@@ -5,6 +5,11 @@ var addressPoints = [
     -74.6592958
   ], 
   [
+    "Ann Arbor, MI, USA", 
+    42.2681569, 
+    -83.7312291
+  ], 
+  [
     "Austin, TX, USA", 
     30.2711286, 
     -97.7436995
