@@ -2,7 +2,7 @@
 title: "Minotaur: Adapting Software Testing Techniques for Hardware Errors"
 authors: "<u>Abdulrahman Mahmoud</u>, Radha Venkatagiri, Khalique Ahmed, Sasa Misailovic, Darko Marinov, Christopher W. Fletcher, Sarita V. Adve"
 collection: publications
-permalink: /publication/minotaur2019
+permalink: /publication/minotaur2019.html
 date: 2019-04-17
 venue: 'The 24th International Conference on Architectural Support for Programming Languages and Operating Systems' 
 venue_type: conference

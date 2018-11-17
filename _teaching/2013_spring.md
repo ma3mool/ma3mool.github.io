@@ -2,7 +2,7 @@
 title: "ELE302: System Design and Analysis"
 collection: teaching
 type: "Lab TA"
-permalink: /teaching/2013-spring
+permalink: /teaching/2013-spring.html
 venue: "Princeton University, ELE Department"
 date: 2013-02-01
 location: "Princeton, NJ"
