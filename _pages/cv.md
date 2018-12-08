@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **University of Illinois at Urbana-Champaign**
-  * Ph.D Candidate in Computer Science
+  * Ph.D Candidate in Computer Science (expected 2020)
   * Advisor: Dr. Sarita Adve
 * **Princeton University**, 2013
   * B.S.E. in Electrical Engineering
