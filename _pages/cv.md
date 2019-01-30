@@ -67,7 +67,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-teaching-cv.html %}
   {% endfor %}</ul>
  
 Activities and Memberships
@@ -81,7 +81,7 @@ Activities and Memberships
 
 Skills
 ======
-* **Programming Languages:** Java, C, C++, Charm++, Matlab, Bash, Python, AWK, Verilog, Perl,
+* **Programming Languages:** Java, C, C++, Charm++, Matlab, Bash, Python, AWK, Verilog, Perl
 * **Operating Systems:** Ubuntu, Debian, RedHat, CentOS, Scientific Linux, Gentoo, Microsoft Windows
 * **Simulators/Frameworks:** GEMS, gem5, SIMICS, PyTorch
 * **Web Design:** Dreamweaver, Drupal
