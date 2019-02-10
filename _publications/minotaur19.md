@@ -9,6 +9,7 @@ venue_type: conference
 conf_shorthand: 'ASPLOS'
 location: Providence, Rhode Island 
 acceptance_rate: 21.1%
-citation: '<b>Abdulrahman Mahmoud</b>, Radha Venkatagiri, Khalique Ahmed, Sasa Misailovic, Darko Marinov, Christopher W. Fletcher, and Sarita Adve. 2019. &quot;Minotaur: Adapting Software Testing Techniques for Hardware Errors,&quot; <i>2019 24th ACM International Conference on Architecture Support for Programming Languages and Operating Systems (ASPLOS)</i>, Providence, Rhode Island, USA, 2019.'
+paperurl: /files/19-ASPLOS-minotaur.pdf
+citation: '<b>Abdulrahman Mahmoud</b>, Radha Venkatagiri, Khalique Ahmed, Sasa Misailovic, Darko Marinov, Christopher W. Fletcher, and Sarita Adve. 2019. Minotaur: Adapting Software Testing Techniques for Hardware Errors. In <i>2019 Architecture Support for Programming Languages and Operating Systems (ASPLOS 19), April 13-17, 2019, Providence, Rhode Island, USA.</i> ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3297858.3304050'
 other: (To appear in ASPLOS '19) 
 ---
