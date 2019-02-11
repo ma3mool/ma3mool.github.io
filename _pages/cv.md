@@ -21,7 +21,11 @@ Education
 
 Awards and Distinctions 
 =====
+* [2017] ASPLOS 2017, Student Travel Grant, ACM
+* [2016] MICRO 2016, Student Travel Grant, IEEE
+* [2015] ISCA 2015, Student Travel Grant, ACM
 * [2015] List of Teachers Ranked as Excellent by their Students (Campus Award)
+* [2014] ISCA 2014, Student Travel Grant, NSF
 * [2013] John Ogden Bigelow Jr. Prize in Electrical Engineering ($3,000)
 * [2013] Friedland Senior Thesis Fund for Senior Thesis Research ($850)
 * [2012] SEAS McCracken Senior Thesis Fund for Senior Thesis Research ($1,850)
@@ -72,8 +76,9 @@ Teaching
  
 Activities and Memberships
 ======
-* [2019] **Mentor**: URAP - Undergraduate Research Apprenticeship Program
-* [2018] **Mentor**: PURE - Promoting Undergraduate Research in Engineering
+* [2019] **Graduate Mentor**: [MUSE - Mentoring Undergraduates in Science & Engineering Program](https://muse.engineering.illinois.edu/)
+* [2019] **Graduate Mentor**: [URAP - Undergraduate Research Apprenticeship Program](https://undergradresearch.illinois.edu/programs/urap.html)
+* [2018] **Graduate Mentor**: [PURE - Promoting Undergraduate Research in Engineering](http://pure.engr.illinois.edu/)
 * [2014-Present] **Member**: UIUC Graduate Ambassador
 * [2013-Present] **Member**: IEEE
 * [2013-Present] **Member**: ACM
