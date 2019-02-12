@@ -21,11 +21,7 @@ Education
 
 Awards and Distinctions 
 =====
-* [2017] ASPLOS 2017, Student Travel Grant, ACM
-* [2016] MICRO 2016, Student Travel Grant, IEEE
-* [2015] ISCA 2015, Student Travel Grant, ACM
 * [2015] List of Teachers Ranked as Excellent by their Students (Campus Award)
-* [2014] ISCA 2014, Student Travel Grant, NSF
 * [2013] John Ogden Bigelow Jr. Prize in Electrical Engineering ($3,000)
 * [2013] Friedland Senior Thesis Fund for Senior Thesis Research ($850)
 * [2012] SEAS McCracken Senior Thesis Fund for Senior Thesis Research ($1,850)
