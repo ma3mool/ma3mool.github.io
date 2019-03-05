@@ -42,14 +42,17 @@
     <!-- Print Authors and Venue text -->
       {% if post.collection == 'teaching' %}
           {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.term }} {{ post.date | default: "1900-01-01" | date: "%Y" }}
-      {% elsif post.collection == 'publications' %}
+      {% elsif post.collection == 'publications' %} 
 	<!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-      ; {{ post.authors }}; 
+      <br>{{ post.authors }} 
       	{% if post.venue_type == 'conference' %}
-	   <strong><font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>. 
+	   <br>
+	   <strong><font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong> 
         {% elsif post.venue_type == 'workshop' %}
-	   <strong><font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>. 
+	   <br>
+	   <strong><font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong> 
         {% else %}
+	   <br>
 	    <strong>{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</strong>. 
         {% endif %}
 
@@ -74,6 +77,17 @@
       <br>
 	<font color="#0000EE"><a href="{{ post.paperurl }}">Full Text</a></font>
     {% endif %}
+
+    <!-- Acceptance Rate -->
+    {% if post.lightning %}
+    	{% if post.abstract or post.paperurl %}
+
+		/ <font color="#0000EE"><a href="{{ post.lightning}}">Lightning Talk</a></font>
+    	{% else %}
+		<font color="#0000EE"><a href="{{ post.lightning}}">Lightning Talk</a></font>
+    	{% endif %}
+    {% endif %}
+
 
 
     <!-- Other -->

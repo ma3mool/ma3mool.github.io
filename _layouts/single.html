@@ -65,7 +65,13 @@ layout: default
           <p>
 	     <a href="{{ post.paperurl }}">Full Text</a> </p>
         {% endif %}
-     
+      
+	{% if page.lightning %}
+          <p>
+	     <a href="{{ post.lightning}}">Lightning Talk</a> </p>
+        {% endif %}
+
+
 	{% if page.other %}
           <p><font color="red">{{ page.other}}</font></p>
         {% endif %}
