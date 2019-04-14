@@ -21,12 +21,12 @@ Education
 
 Awards and Distinctions 
 =====
-* [2015] List of Teachers Ranked as Excellent by their Students (Campus Award)
-* [2013] John Ogden Bigelow Jr. Prize in Electrical Engineering ($3,000)
-* [2013] Friedland Senior Thesis Fund for Senior Thesis Research ($850)
-* [2012] SEAS McCracken Senior Thesis Fund for Senior Thesis Research ($1,850)
-* [2012] Friedland Independent Work Fund for Junior Undergrad Research ($1,135)
-* [2011] Accenture SEAS Senior Thesis Fund for Junior Undergrad Research ($2,000)
+* [2015] List of Teachers Ranked as Excellent by their Students (UIUC Campus Award)
+* [2013] John Ogden Bigelow Jr. Prize in Electrical Engineering 
+* [2013] Friedland Senior Thesis Fund for Senior Thesis Research 
+* [2012] SEAS McCracken Senior Thesis Fund for Senior Thesis Research 
+* [2012] Friedland Independent Work Fund for Junior Undergrad Research 
+* [2011] Accenture SEAS Senior Thesis Fund for Junior Undergrad Research 
 
 Internships
 ======
