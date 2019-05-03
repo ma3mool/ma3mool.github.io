@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Dallas, TX, USA", 
+    32.7762719, 
+    -96.7968559
+  ], 
+  [
     "Princeton, NJ, USA", 
     40.3492744, 
     -74.6592958
@@ -20,8 +25,8 @@ var addressPoints = [
     121.5636796
   ], 
   [
-    "Dallas, TX, USA", 
-    32.7762719, 
-    -96.7968559
+    "Providence, RI, USA", 
+    41.8677428, 
+    -71.5814834
   ]
 ];
