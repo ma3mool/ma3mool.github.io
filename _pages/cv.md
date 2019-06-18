@@ -21,7 +21,7 @@ Education
 
 Awards and Distinctions 
 =====
-* [2019] Lynn Conway Research Award for Best Technical Presentation at [ADA](https://adacenter.org/)
+* [2019] Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)
 * [2019] [Mavis Future Faculty Fellowship](http://publish.illinois.edu/engr-mavis/)
 * [2019] Invitation to attend the 7th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) (1 of 200 young researchers worldwide)
 * [2015] List of Teachers Ranked as Excellent by their Students (UIUC Campus Award)
@@ -57,9 +57,9 @@ Internships
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Talks
 ======

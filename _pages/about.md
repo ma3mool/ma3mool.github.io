@@ -22,8 +22,11 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Received the Lynn Conway Research Award for Best Technical Presentation at [ADA](https://adacenter.org/)! 
-* <span style="color:red">**New:**</span> Received the [Mavis Future Faculty Fellowship Award](http://publish.illinois.edu/engr-mavis/) for 2019-2020!
-* <span style="color:red">**New:**</span> Presented our paper titled, "Minotaur: Adapting Software Testing Techniques for Hardware Errors" at [ASPLOS 2019](https://asplos-conference.org/)!
-* <span style="color:red">**New:**</span> Invited to attend the [7th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/), 1 of 200 young researchers invited worldwide!
+* <span style="color:red">**New:**</span> "Approximate Checkers" is accepted at [WAX 2019](http://approximate.computer/wax2019/index.html)! 
+* <span style="color:red">**New:**</span> Released [PyTorchFI](https://pypi.org/project/pytorchfi/), a runtime error injection tool for PyTorch!  
+Go ahead and `pip install pytorchfi`!
+* Received the Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)! 
+* Received the [Mavis Future Faculty Fellowship Award](http://publish.illinois.edu/engr-mavis/) for 2019-2020!
+* Presented our paper titled, "Minotaur: Adapting Software Testing Techniques for Hardware Errors" at [ASPLOS 2019](https://asplos-conference.org/)!
+* Invited to attend the [7th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/), 1 of 200 young researchers invited worldwide!
 * Presented our paper titled, "Optimizing Software-Directed Instruction Replication for GPU Error Detection" at [SC 2018](https://sc18.supercomputing.org/)!

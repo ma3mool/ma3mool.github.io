@@ -3,7 +3,7 @@ title: "PyTorchFI: Application-Driven Reliability for DNNs"
 collection: talks
 type: "Tool Demonstration"
 permalink: /talks/2019-05-01-PyTorchFI.html
-venue: "Center for Application Driveng Architectures (ADA)"
+venue: "Center for Application Driving Architectures (ADA)"
 date: 2019-05-01
 location: "Ann Arbor, MI, USA"
 ---
