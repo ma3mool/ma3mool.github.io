@@ -21,6 +21,7 @@ Education
 
 Awards and Distinctions 
 =====
+* [2019] [URAP Mentoring Certificate](https://undergradresearch.illinois.edu/programs/urap.html) for undergraduate student research mentorship 
 * [2019] Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)
 * [2019] [Mavis Future Faculty Fellowship](http://publish.illinois.edu/engr-mavis/)
 * [2019] Invitation to attend the 7th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) (1 of 200 young researchers worldwide)

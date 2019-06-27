@@ -22,8 +22,9 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> "Approximate Checkers" is accepted at [WAX 2019](http://approximate.computer/wax2019/index.html)! 
-* <span style="color:red">**New:**</span> Released [PyTorchFI](https://pypi.org/project/pytorchfi/), a runtime error injection tool for PyTorch!  
+* <span style="color:red">**New:**</span> Received the [Certificate of Mentorship](https://undergradresearch.illinois.edu/programs/urap.html) from the Graduate College at UIUC for mentoring two undergraduate students in research! 
+* "Approximate Checkers" is accepted at [WAX 2019](http://approximate.computer/wax2019/index.html)! 
+* Released [PyTorchFI](https://pypi.org/project/pytorchfi/), a runtime error injection tool for PyTorch!  
 Go ahead and `pip install pytorchfi`!
 * Received the Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)! 
 * Received the [Mavis Future Faculty Fellowship Award](http://publish.illinois.edu/engr-mavis/) for 2019-2020!

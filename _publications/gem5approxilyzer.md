@@ -12,5 +12,5 @@ location: Portland, Oregon
 acceptance_rate: 21.4%
 abstract: ''
 paperurl: /files/19-DSN-gem5Approxilyzer.pdf
-<!--- other: <font color="red"><b><a href="https://github.com/rsimgroup/gem5-approxilyzer">gem5-Approxilyzer is open-sourced, available here!</a></b></font> -->
+other: <font color="red"><b><a href="https://github.com/rsimgroup/gem5-approxilyzer">gem5-Approxilyzer is open-sourced, available here!</a></b></font>
 ---
