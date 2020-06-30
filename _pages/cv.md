@@ -21,6 +21,7 @@ Education
 
 Awards and Distinctions 
 =====
+* [2020] CITL Certificate in Foundations of Teaching
 * [2019] [URAP Mentoring Certificate](https://undergradresearch.illinois.edu/programs/urap.html) for undergraduate student research mentorship 
 * [2019] Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)
 * [2019] [Mavis Future Faculty Fellowship](http://publish.illinois.edu/engr-mavis/)
@@ -76,6 +77,8 @@ Teaching
  
 Activities and Memberships
 ======
+* [2020] **Judge**: [Undergraduate Research Symposium](http://undergradresearch.illinois.edu/symposium.html)
+* [2020] **Mentor**: [HackIllinois 2020](https://www.hackillinois.org/) for Open-Source Contribution
 * [2019] **Graduate Mentor**: [MUSE - Mentoring Undergraduates in Science & Engineering Program](https://muse.engineering.illinois.edu/)
 * [2019] **Graduate Mentor**: [URAP - Undergraduate Research Apprenticeship Program](https://undergradresearch.illinois.edu/programs/urap.html)
 * [2018] **Graduate Mentor**: [PURE - Promoting Undergraduate Research in Engineering](http://pure.engr.illinois.edu/)

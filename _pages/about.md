@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth year graduate student in computer science at [UIUC](https://cs.illinois.edu/), advised by [Dr. Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) in the [RSim Research Group](http://rsim.cs.illinois.edu/). 
+I am a final year graduate student in computer science at [UIUC](https://cs.illinois.edu/), advised by [Dr. Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) in the [RSim Research Group](http://rsim.cs.illinois.edu/). 
 
 My research is broadly focused on using software-driven techniques to make hardware more reliable. Specifically, I have explored approximate computing and software testing methodologies to improve resiliency analysis; I developed a software-based technique for GPU instruction replication; and I am currently exploring the reliability of neural networks for domain-specific resiliency.
 
@@ -22,7 +22,11 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Received the [Certificate of Mentorship](https://undergradresearch.illinois.edu/programs/urap.html) from the Graduate College at UIUC for mentoring two undergraduate students in research! 
+* <span style="color:red">**New:**</span> Presented our paper titled, "PyTorchFI: A Runtime Perturbation Tool for DNNs" at [DSN-DSML 2020](https://dependablesecureml.github.io/program.html)!
+* <span style="color:red">**New:**</span> Our paper titled, "Inter-Kernel Reuse-Aware Thread Block Scheduling" is accepted for publication at TACO 2020!
+* <span style="color:red">**New:**</span> Awarded the CITL Certificate in [Foundations of Teaching]()! 
+* Presented our paper titled, "Feature Map Vulnerability Evaluation in CNNs" at [SARA 2020](https://sara-workshop.org/)! 
+* Received the [Certificate of Mentorship](https://undergradresearch.illinois.edu/programs/urap.html) from the Graduate College at UIUC for mentoring two undergraduate students in research! 
 * "Approximate Checkers" is accepted at [WAX 2019](http://approximate.computer/wax2019/index.html)! 
 * Released [PyTorchFI](https://pypi.org/project/pytorchfi/), a runtime error injection tool for PyTorch!  
 Go ahead and `pip install pytorchfi`!
