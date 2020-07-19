@@ -22,9 +22,9 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Presented our paper titled, "PyTorchFI: A Runtime Perturbation Tool for DNNs" at [DSN-DSML 2020](https://dependablesecureml.github.io/program.html)!
+* <span style="color:red">**New:**</span> [Presented](https://www.youtube.com/watch?v=A2LbJZeC5k8) our paper titled, "PyTorchFI: A Runtime Perturbation Tool for DNNs" at [DSN-DSML 2020](https://dependablesecureml.github.io/program.html)!
 * <span style="color:red">**New:**</span> Our paper titled, "Inter-Kernel Reuse-Aware Thread Block Scheduling" is accepted for publication at TACO 2020!
-* <span style="color:red">**New:**</span> Awarded the CITL Certificate in [Foundations of Teaching]()! 
+* <span style="color:red">**New:**</span> Awarded the CITL Certificate in [Foundations of Teaching](https://citl.illinois.edu/citl-101/teaching-learning)! 
 * Presented our paper titled, "Feature Map Vulnerability Evaluation in CNNs" at [SARA 2020](https://sara-workshop.org/)! 
 * Received the [Certificate of Mentorship](https://undergradresearch.illinois.edu/programs/urap.html) from the Graduate College at UIUC for mentoring two undergraduate students in research! 
 * "Approximate Checkers" is accepted at [WAX 2019](http://approximate.computer/wax2019/index.html)! 
