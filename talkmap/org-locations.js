@@ -26,7 +26,12 @@ var addressPoints = [
   ], 
   [
     "Providence, RI, USA", 
-    41.8677428, 
-    -71.5814834
+    41.8239891, 
+    -71.4128343
+  ], 
+  [
+    "Heidelberg, Germany", 
+    49.4093582, 
+    8.694724
   ]
 ];

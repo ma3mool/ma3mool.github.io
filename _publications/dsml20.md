@@ -1,5 +1,5 @@
 ---
-title: "PyTorchFI: A Runtime Perturbation Tool for PyTorch"
+title: "PyTorchFI: A Runtime Perturbation Tool for DNNs"
 authors: "<u>Abdulrahman Mahmoud</u>, Neeraj Aggarwal, Alex Nobbe, Jose Rodrigo Sanchez Vicarte, Sarita V. Adve, Christopher W. Fletcher, Iuri Frosio, Siva Kumar Sastry Hari"
 collection: publications
 permalink: /publication/dsml20.html

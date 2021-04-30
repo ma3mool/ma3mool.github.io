@@ -2,7 +2,7 @@
 title: "Feature Map Vulnerability Evaluation in CNNs"
 authors: "<u>Abdulrahman Mahmoud</u>, Siva Kumar Sastry Hari, Christopher W. Fletcher, Sarita V. Adve, Charbel Sakr, Naresh Shanbhag, Pavlo Molchanov, Michael B. Sullivan, Timothy Tsai, and Stephen W. Keckler"
 collection: publications
-permalink: /publication/wax19.html
+permalink: /publication/sara20.html
 date: 2020-3-05
 venue: 'Workshop on Secure and Resilient Autonomy' 
 venue_type: workshop 

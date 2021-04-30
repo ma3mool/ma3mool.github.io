@@ -12,15 +12,17 @@ redirect_from:
 Education
 ======
 * **University of Illinois at Urbana-Champaign**
-  * Ph.D Candidate in Computer Science (expected 2020)
+  * Ph.D in Computer Science, 2020
+  * Thesis: Towards Scalable and Specialized Application Error Analysis
   * Advisor: Dr. Sarita Adve
-* **Princeton University**, 2013
-  * B.S.E. in Electrical Engineering
+* **Princeton University**
+  * B.S.E. in Electrical Engineering, 2013
   * Certificate: Applications of Computing
   * Advisors: Dr. David Wentzlaff and Dr. Sharad Malik
 
 Awards and Distinctions 
 =====
+* [2020] Invitation to attend the [2020 NextProf Nexus Workshop](http://nextprofnexus.engin.umich.edu/)
 * [2020] CITL Certificate in Foundations of Teaching
 * [2019] [URAP Mentoring Certificate](https://undergradresearch.illinois.edu/programs/urap.html) for undergraduate student research mentorship 
 * [2019] Lynn Conway Research Award for Best Technical Demonstration at [ADA](https://adacenter.org/)
@@ -35,6 +37,10 @@ Awards and Distinctions
 
 Internships
 ======
+* **[Winter 2020] Systems Engineer Intern, at Splice Machine**
+  * Project: Deep learning and GPU support for database platform
+  * Supervisor: Ben Epstein
+
 * **[Summer 2018] Graduate Research Intern, at NVIDIA**
   * Santa Clara, CA
   * Research Topic: Neural network reliability
@@ -50,7 +56,7 @@ Internships
 * **[Summer 2013] Software Design Architect, at iDirect**
   * Herndon, VA
   * Project: Platform design for remote modems.
-  * Supervisor: Mr. Assem Salama
+  * Supervisor: Assem Salama
 
 * **[Summer 2011] REU: Mid-InfraRed Technologies for Health and Environment, at Princeton University**
   * Princeton, NJ
@@ -77,6 +83,7 @@ Teaching
  
 Activities and Memberships
 ======
+* [2020-Present] **Steering Committee**: [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)
 * [2020] **Judge**: [Undergraduate Research Symposium](http://undergradresearch.illinois.edu/symposium.html)
 * [2020] **Mentor**: [HackIllinois 2020](https://www.hackillinois.org/) for Open-Source Contribution
 * [2019] **Graduate Mentor**: [MUSE - Mentoring Undergraduates in Science & Engineering Program](https://muse.engineering.illinois.edu/)
