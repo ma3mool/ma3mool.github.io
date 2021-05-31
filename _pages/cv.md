@@ -13,7 +13,7 @@ Education
 ======
 * **University of Illinois at Urbana-Champaign**
   * Ph.D in Computer Science, 2020
-  * Thesis: Towards Scalable and Specialized Application Error Analysis
+  * Thesis: [Towards Scalable and Specialized Application Error Analysis](https://www.ideals.illinois.edu/handle/2142/109425)
   * Advisor: Dr. Sarita Adve
 * **Princeton University**
   * B.S.E. in Electrical Engineering, 2013
@@ -83,13 +83,15 @@ Teaching
  
 Activities and Memberships
 ======
+* [2021] **Steering Committee**: [Undergraduate Architecture Mentoring (uArch) Workshop, in conjuction with ISCA 2021](https://sites.google.com/wisc.edu/uarch2021/home)
+* [2021] **Social Co-Chair**: [ASPLOS 2021](https://asplos-conference.org/2021/)
 * [2020-Present] **Steering Committee**: [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)
 * [2020] **Judge**: [Undergraduate Research Symposium](http://undergradresearch.illinois.edu/symposium.html)
 * [2020] **Mentor**: [HackIllinois 2020](https://www.hackillinois.org/) for Open-Source Contribution
 * [2019] **Graduate Mentor**: [MUSE - Mentoring Undergraduates in Science & Engineering Program](https://muse.engineering.illinois.edu/)
 * [2019] **Graduate Mentor**: [URAP - Undergraduate Research Apprenticeship Program](https://undergradresearch.illinois.edu/programs/urap.html)
 * [2018] **Graduate Mentor**: [PURE - Promoting Undergraduate Research in Engineering](http://pure.engr.illinois.edu/)
-* [2014-Present] **Member**: UIUC Graduate Ambassador
+* [2014-2020] **Member**: UIUC Graduate Ambassador
 * [2013-Present] **Member**: IEEE
 * [2013-Present] **Member**: ACM
 

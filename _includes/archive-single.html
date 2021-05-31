@@ -50,7 +50,10 @@
 	   <strong><font color="green"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong> 
         {% elsif post.venue_type == 'workshop' %}
 	   <br>
-	   <strong><font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong> 
+	   <strong><font color="purple"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>
+        {% elsif post.venue_type == 'journal' %}
+        <br>
+        <strong><font color="blue"> {{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</font></strong>
         {% else %}
 	   <br>
 	    <strong>{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</strong>. 
