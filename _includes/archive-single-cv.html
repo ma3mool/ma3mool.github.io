@@ -31,7 +31,9 @@
       {% if post.venue_type == 'conference' %}
          <strong><font color="green">[{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}] </font></strong> 
       {% elsif post.venue_type == 'workshop' %}
-	 <strong><font color="purple">[{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}] </font></strong> 
+	 <strong><font color="purple">[{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}] </font></strong>
+      {% elsif post.venue_type == 'journal' %}
+      <strong><font color="#ff8c00">[{{ post.conf_shorthand }} {{ post.date | default: "1900-01-01" | date: "%Y" }}] </font></strong>
       {% endif %}
 
       {% if post.link %}

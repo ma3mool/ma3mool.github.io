@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Color code: <strong><font color="Blue">Blue</font></strong>: journal, <strong><font color="green">Green</font></strong>: conference, <strong><font color="purple">Purple</font></strong>: workshop.
+Color code: <strong><font color="orange">Orange</font></strong>: journal, <strong><font color="green">Green</font></strong>: conference, <strong><font color="purple">Purple</font></strong>: workshop.
 
-[comment]: <> ({% if author.googlescholar %})
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-[comment]: <> ({% endif %})
+{% endif %}
 
 {% include base_path %}
 
