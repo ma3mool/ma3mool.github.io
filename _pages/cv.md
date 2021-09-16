@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* **Harvard University**
+  * Postdoctoral Fellow in the [Harvard Architecture, Circuits, and Compilers Group](https://vlsiarch.eecs.harvard.edu/)
+  * Advisors: Dr. David Brooks and Dr. Gu-Yeon Wei
+  
 Education
 ======
 * **University of Illinois at Urbana-Champaign**
@@ -22,6 +28,7 @@ Education
 
 Awards and Distinctions 
 =====
+* [2021] [3C-Fellow](https://identity.cs.duke.edu/index.html) for 2022-2023
 * [2020] Invitation to attend the [2020 NextProf Nexus Workshop](http://nextprofnexus.engin.umich.edu/)
 * [2020] CITL Certificate in Foundations of Teaching
 * [2019] [URAP Mentoring Certificate](https://undergradresearch.illinois.edu/programs/urap.html) for undergraduate student research mentorship 
@@ -81,10 +88,13 @@ Teaching
     {% include archive-single-teaching-cv.html %}
   {% endfor %}</ul>
  
-Activities and Memberships
+Service, Activities and Memberships
 ======
+* [2022] **Social Co-Chair**: [ASPLOS 2022](https://asplos-conference.org/)
+* [2022] **External Review Committee** [ASPLOS 2022](https://asplos-conference.org/)
+* [2021] **Artifact Evaluation Committee** [MICRO 2021](https://www.microarch.org/micro54/)
 * [2021] **Steering Committee**: [Undergraduate Architecture Mentoring (uArch) Workshop, in conjuction with ISCA 2021](https://sites.google.com/wisc.edu/uarch2021/home)
-* [2021] **Social Co-Chair**: [ASPLOS 2021](https://asplos-conference.org/2021/)
+* [2021] **Social Co-Chair**: [ASPLOS 2021](https://asplos-conference.org/2021/index.html)
 * [2020-Present] **Steering Committee**: [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)
 * [2020] **Judge**: [Undergraduate Research Symposium](http://undergradresearch.illinois.edu/symposium.html)
 * [2020] **Mentor**: [HackIllinois 2020](https://www.hackillinois.org/) for Open-Source Contribution
