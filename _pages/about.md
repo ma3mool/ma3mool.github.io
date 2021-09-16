@@ -27,7 +27,10 @@ to the [7th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org
 and to recieve multiple awards for teaching and
 mentoring undergraduate students. Prior to joining UIUC, I completed my BSE from
 [Princeton University](https://ece.princeton.edu/), where I was the recipient of the 
-John Ogden Bigelow Jr. Prize in Electrical Engineering.
+John Ogden Bigelow Jr. Prize in Electrical Engineering. 
+
+In addition to doing research, I also enjoy watching documentaries, playing soccer, and I am
+a contributing feature article writer at [TechSpot.com](https://www.techspot.com/about/). 
 
 If you are a student or researcher (or both!), please feel free to reach out to me by email!
 
@@ -41,9 +44,18 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Joined the [Harvard Architecture, Circuits, and Compilers Group](https://vlsiarch.eecs.harvard.edu/) as a Postdoc Researcher! 
-* <span style="color:red">**New:**</span> Deposited my PhD thesis! Title: [Towards Scalable and Specialized Application Error Analysis](https://www.ideals.illinois.edu/handle/2142/109425). 
-* <span style="color:red">**New:**</span> If you are a graduate or undergraduate student in computer architecture, checkout the [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)! Founded _by_ students, _for_ students!
+* <span style="color:red">**New:**</span> Our tool, [PyTorchFI](https://github.com/pytorchfi/pytorchfi), has surpassed [25,000 downloads](https://pepy.tech/project/pytorchfi) and has been accepted into the [PyTorch EcoSystem](https://pytorch.org/ecosystem/)!
+* <span style="color:red">**New:**</span> Our paper titled "Optimizing Selective Protection for CNN Resilience" has been accepted for publication at [ISSRE 2021](https://issre.net/)!
+* <span style="color:red">**New:**</span> Serving on the ASPLOS 2022 ERC.
+* <span style="color:red">**New:**</span> Serving as an ASPLOS 2022 Social Co-Chair (w/ [Elba Garza](http://www.elbagarza.com/)).
+* <span style="color:red">**New:**</span> Accepted to the 2nd [Cultural Competence in Computing (3C) Fellows](https://identity.cs.duke.edu/fellows.html) cohort (w/ [Udit Gupta](https://ugupta.com/) and [Lillie Pentecost](https://lpentecost.github.io/cv/))!
+* <span style="color:red">**New:**</span> Serving on the MICRO 2021 Artifact Evaluation Committee.
+* <span style="color:red">**New:**</span> Invited to attend the [Stanford Faculty Job Search Bootcamp 2021](https://postdocs.stanford.edu/events/series/nsf-agep-research-university-alliance) and the [New England Future Faculty Workshop 2021](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/). 
+* <span style="color:red">**New:**</span> Our paper titled "Mentoring Opportunities in Computer Architecture: Analyzing the Past to Develop the Future" is accepted to [WCAE 2021](https://people.engr.ncsu.edu/efg/wcae2021.html), colocated with ISCA 2021! [Paper](https://drive.google.com/file/d/1o9g2WsxZ_oM2xnKSzOWQ80Z-CwQHrMcf/view), [Workshop Video](https://www.youtube.com/watch?v=ipF0x-FKA-k), [Panel Discussion](https://www.youtube.com/watch?v=RhSYHhGNn7w).
+* Serving as an ASPLOS 2021 Social Co-Chair (w/ [Elba Garza](http://www.elbagarza.com/)).
+* Joined the [Harvard Architecture, Circuits, and Compilers Group](https://vlsiarch.eecs.harvard.edu/) as a Postdoc Researcher! 
+* Deposited my PhD thesis! Title: [Towards Scalable and Specialized Application Error Analysis](https://www.ideals.illinois.edu/handle/2142/109425). 
+* If you are a graduate or undergraduate student in computer architecture, checkout the [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)! Founded _by_ students, _for_ students!
 * Presented our work on [HarDNN](https://arxiv.org/abs/2002.09786) at [SRC TECHCON 2020](https://www.src.org/)!
 * Invited to attend the [2020 NextProf Nexus Workshop](https://nextprofnexus.engin.umich.edu/)!
 * [Presented](https://www.youtube.com/watch?v=A2LbJZeC5k8) our paper titled, "PyTorchFI: A Runtime Perturbation Tool for DNNs" at [DSN-DSML 2020](https://dependablesecureml.github.io/program.html)!
