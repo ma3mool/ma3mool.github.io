@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Current Position
-======
-* **Harvard University**
-  * Postdoctoral Fellow in the [Harvard Architecture, Circuits, and Compilers Group](https://vlsiarch.eecs.harvard.edu/)
-  * Advisors: Dr. David Brooks and Dr. Gu-Yeon Wei
-  
 Education
 ======
 * **University of Illinois at Urbana-Champaign**
