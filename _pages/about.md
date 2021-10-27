@@ -44,14 +44,16 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Our tool, [PyTorchFI](https://github.com/pytorchfi/pytorchfi), has surpassed [25,000 downloads](https://pepy.tech/project/pytorchfi) and has been accepted into the [PyTorch EcoSystem](https://pytorch.org/ecosystem/)!
-* <span style="color:red">**New:**</span> Our paper titled "Optimizing Selective Protection for CNN Resilience" has been accepted for publication at [ISSRE 2021](https://issre.net/)!
-* <span style="color:red">**New:**</span> Serving on the ASPLOS 2022 ERC.
-* <span style="color:red">**New:**</span> Serving as an ASPLOS 2022 Social Co-Chair (w/ [Elba Garza](http://www.elbagarza.com/)).
-* <span style="color:red">**New:**</span> Accepted to the 2nd [Cultural Competence in Computing (3C) Fellows](https://identity.cs.duke.edu/fellows.html) cohort (w/ [Udit Gupta](https://ugupta.com/) and [Lillie Pentecost](https://lpentecost.github.io/cv/))!
-* <span style="color:red">**New:**</span> Serving on the MICRO 2021 Artifact Evaluation Committee.
-* <span style="color:red">**New:**</span> Invited to attend the [Stanford Faculty Job Search Bootcamp 2021](https://postdocs.stanford.edu/events/series/nsf-agep-research-university-alliance) and the [New England Future Faculty Workshop 2021](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/). 
-* <span style="color:red">**New:**</span> Our paper titled "Mentoring Opportunities in Computer Architecture: Analyzing the Past to Develop the Future" is accepted to [WCAE 2021](https://people.engr.ncsu.edu/efg/wcae2021.html), colocated with ISCA 2021! [Paper](https://drive.google.com/file/d/1o9g2WsxZ_oM2xnKSzOWQ80Z-CwQHrMcf/view), [Workshop Video](https://www.youtube.com/watch?v=ipF0x-FKA-k), [Panel Discussion](https://www.youtube.com/watch?v=RhSYHhGNn7w).
+* <span style="color:red">**New:**</span> Presented [my work](https://ma3mool.github.io/files/21-ISSRE-FILR.pdf) on DNN resilience at ISSRE 2021!
+* <span style="color:red">**New:**</span> Invited to speak at the [Career Workshop for Inclusion and Diversity in Computer Architecture (CWIDCA)](https://www.colorado.edu/conference/cwwmca/), co-located with MICRO-54!
+* Our tool, [PyTorchFI](https://github.com/pytorchfi/pytorchfi), has surpassed [25,000 downloads](https://pepy.tech/project/pytorchfi) and has been accepted into the [PyTorch EcoSystem](https://pytorch.org/ecosystem/)!
+* Our paper titled "Optimizing Selective Protection for CNN Resilience" has been accepted for publication at [ISSRE 2021](https://issre.net/)!
+* Serving on the ASPLOS 2022 ERC.
+* Serving as an ASPLOS 2022 Social Co-Chair (w/ [Elba Garza](http://www.elbagarza.com/)).
+* Accepted to the 2nd [Cultural Competence in Computing (3C) Fellows](https://identity.cs.duke.edu/fellows.html) cohort (w/ [Udit Gupta](https://ugupta.com/) and [Lillie Pentecost](https://lpentecost.github.io/cv/))!
+* Serving on the MICRO 2021 Artifact Evaluation Committee.
+* Invited to attend the [Stanford Faculty Job Search Bootcamp 2021](https://postdocs.stanford.edu/events/series/nsf-agep-research-university-alliance) and the [New England Future Faculty Workshop 2021](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/). 
+* Our paper titled "Mentoring Opportunities in Computer Architecture: Analyzing the Past to Develop the Future" is accepted to [WCAE 2021](https://people.engr.ncsu.edu/efg/wcae2021.html), colocated with ISCA 2021! [Paper](https://drive.google.com/file/d/1o9g2WsxZ_oM2xnKSzOWQ80Z-CwQHrMcf/view), [Workshop Video](https://www.youtube.com/watch?v=ipF0x-FKA-k), [Panel Discussion](https://www.youtube.com/watch?v=RhSYHhGNn7w).
 * Serving as an ASPLOS 2021 Social Co-Chair (w/ [Elba Garza](http://www.elbagarza.com/)).
 * Joined the [Harvard Architecture, Circuits, and Compilers Group](https://vlsiarch.eecs.harvard.edu/) as a Postdoc Researcher! 
 * Deposited my PhD thesis! Title: [Towards Scalable and Specialized Application Error Analysis](https://www.ideals.illinois.edu/handle/2142/109425). 
