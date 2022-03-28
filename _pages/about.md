@@ -15,7 +15,7 @@ Compilers Group](https://vlsiarch.eecs.harvard.edu/). My research interests
 are broadly in the areas of computer architecture, machine learning, reliability,
 and approximate computing. My work
 focuses on addressing the role hardware errors play on an application's error
-tolerance, by designed tools and techniques to help understand how
+tolerance, by designing tools and techniques to help understand how
 hardware errors propagate and affect software.
 
 I completed my PhD at UIUC
@@ -29,8 +29,11 @@ mentoring undergraduate students. Prior to joining UIUC, I completed my BSE from
 [Princeton University](https://ece.princeton.edu/), where I was the recipient of the 
 John Ogden Bigelow Jr. Prize in Electrical Engineering. 
 
-In addition to doing research, I also enjoy watching documentaries, playing soccer, and I am
-a contributing feature article writer at [TechSpot.com](https://www.techspot.com/about/). 
+In addition to doing research, I am also a steering committee member for the 
+Computer Architecture Student Association ([CASA](https://www.sigarch.org/casa/)) and the Computer Architecture Long-term Mentoring
+([CALM](https://www.comparchmentoring.org/)) initiatives. 
+In my free time, I enjoy watching documentaries, playing soccer, and I am
+a contributing feature article writer at [TechSpot.com](https://www.techspot.com/). 
 
 If you are a student or researcher (or both!), please feel free to reach out to me by email!
 
@@ -44,8 +47,11 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Presented [my work](https://ma3mool.github.io/files/21-ISSRE-FILR.pdf) on DNN resilience at ISSRE 2021!
-* <span style="color:red">**New:**</span> Invited to speak at the [Career Workshop for Inclusion and Diversity in Computer Architecture (CWIDCA)](https://www.colorado.edu/conference/cwwmca/), co-located with MICRO-54!
+* <span style="color:red">**New:**</span> My work titled "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
+* <span style="color:red">**New:**</span> Jaylen Wang's work on a Dataflow-Aware Fault Resilience Analysis Framework for DNN Accelerators has been accepted for publication at [YArch 2022](https://web.mit.edu/yarch2022/index.html)!
+* <span style="color:red">**New:**</span> [FRL-FI](https://arxiv.org/pdf/2203.07276.pdf) has been accepted for publication at [DATE 2022](https://www.date-conference.com/)!
+* Presented [my work](https://ma3mool.github.io/files/21-ISSRE-FILR.pdf) on DNN resilience at ISSRE 2021!
+* Invited to speak at the [Career Workshop for Inclusion and Diversity in Computer Architecture (CWIDCA)](https://www.colorado.edu/conference/cwwmca/), co-located with MICRO-54!
 * Our tool, [PyTorchFI](https://github.com/pytorchfi/pytorchfi), has surpassed [25,000 downloads](https://pepy.tech/project/pytorchfi) and has been accepted into the [PyTorch EcoSystem](https://pytorch.org/ecosystem/)!
 * Our paper titled "Optimizing Selective Protection for CNN Resilience" has been accepted for publication at [ISSRE 2021](https://issre.net/)!
 * Serving on the ASPLOS 2022 ERC.
