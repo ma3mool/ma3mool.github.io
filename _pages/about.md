@@ -47,8 +47,8 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> My work titled "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
-* <span style="color:red">**New:**</span> Jaylen Wang's work on a Dataflow-Aware Fault Resilience Analysis Framework for DNN Accelerators has been accepted for publication at [YArch 2022](https://web.mit.edu/yarch2022/index.html)!
+* <span style="color:red">**New:**</span> "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
+* <span style="color:red">**New:**</span> "A Dataflow-Aware Fault Resilience Analysis Framework for DNN Accelerators" has been accepted for publication at [YArch 2022](https://web.mit.edu/yarch2022/index.html)!
 * <span style="color:red">**New:**</span> [FRL-FI](https://arxiv.org/pdf/2203.07276.pdf) has been accepted for publication at [DATE 2022](https://www.date-conference.com/)!
 * Presented [my work](https://ma3mool.github.io/files/21-ISSRE-FILR.pdf) on DNN resilience at ISSRE 2021!
 * Invited to speak at the [Career Workshop for Inclusion and Diversity in Computer Architecture (CWIDCA)](https://www.colorado.edu/conference/cwwmca/), co-located with MICRO-54!

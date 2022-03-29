@@ -84,9 +84,11 @@ Teaching
  
 Service, Activities and Memberships
 ======
+* [2022] **PC Committee**: [YArch 2022](https://web.mit.edu/yarch2022/index.html)
 * [2022] **Social Co-Chair**: [ASPLOS 2022](https://asplos-conference.org/)
-* [2022] **External Review Committee** [ASPLOS 2022](https://asplos-conference.org/)
-* [2021] **Artifact Evaluation Committee** [MICRO 2021](https://www.microarch.org/micro54/)
+* [2022] **External Review Committee**: [ASPLOS 2022](https://asplos-conference.org/)
+* [2022-Present] **Steering Committee**: [Computer Architecture Long-term Mentoring (CALM)](https://www.comparchmentoring.org/)
+* [2021] **Artifact Evaluation Committee**: [MICRO 2021](https://www.microarch.org/micro54/)
 * [2021] **Steering Committee**: [Undergraduate Architecture Mentoring (uArch) Workshop, in conjuction with ISCA 2021](https://sites.google.com/wisc.edu/uarch2021/home)
 * [2021] **Social Co-Chair**: [ASPLOS 2021](https://asplos-conference.org/2021/index.html)
 * [2020-Present] **Steering Committee**: [Computer Architecture Student Association (CASA)](https://www.comparchsa.org/)
