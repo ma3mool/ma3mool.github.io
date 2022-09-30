@@ -47,7 +47,7 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> Helped organize the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
+* <span style="color:red">**New:**</span> Co-organized the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
 * <span style="color:red">**New:**</span> [GoldenEye](https://github.com/ma3mool/goldeneye) is open sourced! Check it out and let us know what you think! 
 * "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
 * "A Dataflow-Aware Fault Resilience Analysis Framework for DNN Accelerators" has been accepted for publication at [YArch 2022](https://web.mit.edu/yarch2022/index.html)!
