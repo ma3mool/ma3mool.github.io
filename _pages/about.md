@@ -47,7 +47,7 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> GoldenEye is featured as the System Design & Analysis challenge for the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/)! 
+* <span style="color:red">**New:**</span> GoldenEye is featured in the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/) as the System Design & Analysis challenge problem! 
 * Co-organized the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
 * [GoldenEye](https://github.com/ma3mool/goldeneye) is open sourced! Check it out and let us know what you think! 
 * "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
