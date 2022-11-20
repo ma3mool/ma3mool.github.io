@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font color="blue"> [Click here for latest CV in PDF format.](https://drive.google.com/file/d/1ubDUMP7OUyQU4nG-3_k2Jeif8_LkYkBA/view)</font>
+<font color="blue"><a href="https://drive.google.com/file/d/1ubDUMP7OUyQU4nG-3_k2Jeif8_LkYkBA/view">Click here for latest CV in PDF format.)</a></font>
 
 Education
 ======
