@@ -11,4 +11,5 @@ location: Baltimore, Maryland
 acceptance_rate: 18.9%
 paperurl: /files/22-DSN-goldeneye.pdf
 citation: "<b>Abdulrahman Mahmoud</b>, Thierry Tambe, Tarek Aloui, David Brooks, Gu-Yeon Wei. 2022. &quot;GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators,&quot; <i> 2022 International Conference on Dependable Systems and Networks (DSN)</i>, Balitmore, Maryland 2022."
+other: <font color="red"><b><a href="https://github.com/ma3mool/goldeneye">GoldenEye is open-sourced, available here!</a></b></font>
 ---
