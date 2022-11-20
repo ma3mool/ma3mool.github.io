@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For latest CV in [PDF](https://drive.google.com/file/d/1ubDUMP7OUyQU4nG-3_k2Jeif8_LkYkBA/view) format.
+<font color="blue"> [Click here for latest CV in PDF format.](https://drive.google.com/file/d/1ubDUMP7OUyQU4nG-3_k2Jeif8_LkYkBA/view)</font>
 
 Education
 ======
@@ -41,6 +41,7 @@ Awards and Distinctions
 Research and Work Experience
 ======
 * **[February 2021-Present] Postdoctoral Research Fellow, at Harvard University**
+  * Cambridge, MA 
   * Advisors: David Brooks and Gu-Yeon Wei
 
 * **[Winter 2020] Systems Engineer Intern, at Splice Machine**
