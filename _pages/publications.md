@@ -7,7 +7,7 @@ author_profile: true
 
 Color code: <strong><font color="green">Green</font></strong>: conference, <strong><font color="orange">Orange</font></strong>: journal, <strong><font color="purple">Purple</font></strong>: workshop.
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=LRZKQpkAAAAJ&hl=en">my Google Scholar profile</a>.
+You can also find my articles on <font color="blue"><a href="https://scholar.google.com/citations?user=LRZKQpkAAAAJ&hl=en">my Google Scholar profile</a></font>.
 
 [comment]: <> ({% if author.googlescholar %})
 

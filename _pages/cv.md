@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For latest CV in [PDF](https://drive.google.com/file/d/1ubDUMP7OUyQU4nG-3_k2Jeif8_LkYkBA/view) format.
+
 Education
 ======
 * **University of Illinois at Urbana-Champaign**
@@ -36,8 +38,11 @@ Awards and Distinctions
 * [2012] Friedland Independent Work Fund for Junior Undergrad Research 
 * [2011] Accenture SEAS Senior Thesis Fund for Junior Undergrad Research 
 
-Internships
+Research and Work Experience
 ======
+* **[February 2021-Present] Postdoctoral Research Fellow, at Harvard University**
+  * Advisors: David Brooks and Gu-Yeon Wei
+
 * **[Winter 2020] Systems Engineer Intern, at Splice Machine**
   * Project: Deep learning and GPU support for database platform
   * Supervisor: Ben Epstein
@@ -84,6 +89,7 @@ Teaching
  
 Service, Activities and Memberships
 ======
+* [2022] **Workshop Organizor**: [JOBS 2022](https://sites.google.com/cornell.edu/jobs-micro-2022)
 * [2022] **PC Committee**: [YArch 2022](https://web.mit.edu/yarch2022/index.html)
 * [2022] **Social Co-Chair**: [ASPLOS 2022](https://asplos-conference.org/)
 * [2022] **External Review Committee**: [ASPLOS 2022](https://asplos-conference.org/)

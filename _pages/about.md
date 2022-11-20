@@ -11,12 +11,14 @@ redirect_from:
 I am a postdoc researcher in computer science at 
 [Harvard University](https://www.seas.harvard.edu/computer-science), working 
 with Dr. David Brooks and Dr. Gu-Yeon Wei in the [Harvard Architecture, Circuits, and 
-Compilers Group](https://vlsiarch.eecs.harvard.edu/). My research interests 
-are broadly in the areas of computer architecture, machine learning, reliability,
-and approximate computing. My work
-focuses on addressing the role hardware errors play on an application's error
-tolerance, by designing tools and techniques to help understand how
-hardware errors propagate and affect software.
+Compilers Group](https://vlsiarch.eecs.harvard.edu/). 
+My research interests are in the areas of computer systems and architecture, with an emphasis on
+reliable system design. I develop principled and efficient tools and methodologies for error analysis,
+leveraging techniques from software engineering, approximate computing, and machine learning.
+
+[//]: # (My work focuses on addressing the role hardware errors play on an application's error)
+[//]: # (tolerance, by designing tools and techniques to help understand how)
+[//]: # (hardware errors propagate and affect software.)
 
 I completed my PhD at UIUC
 under the guidance of [Dr. Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) in 
@@ -36,6 +38,8 @@ In my free time, I enjoy watching documentaries, playing soccer, and I am
 a contributing feature article writer at [TechSpot.com](https://www.techspot.com/). 
 
 If you are a student or researcher (or both!), please feel free to reach out to me by email!
+
+<span style="color:red">**I am currently on the academic job market!**</span>
 
 Research Interests: 
 ======
