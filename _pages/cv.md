@@ -41,7 +41,7 @@ Awards and Distinctions
 
 Research and Work Experience
 ======
-* **[February 2021-Present] Postdoctoral Research Fellow, at Harvard University**
+* **[Feb 2021-Present] Postdoctoral Research Fellow, at Harvard University**
   * Cambridge, MA 
   * Advisors: David Brooks and Gu-Yeon Wei
 
@@ -110,11 +110,17 @@ Service, Activities and Memberships
 * [2013-Present] **Member**: ACM
 
 
-Skills
-======
-* **Programming Languages:** Java, C, C++, Charm++, Matlab, Bash, Python, AWK, Verilog, Perl
-* **Operating Systems:** Ubuntu, Debian, RedHat, CentOS, Scientific Linux, Gentoo, Microsoft Windows
-* **Simulators/Frameworks:** GEMS, gem5, SIMICS, PyTorch
-* **Web Design:** Dreamweaver, Drupal
-* **Other:** Machine Shop Certified 
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* **Programming Languages:** Java, C, C++, Charm++, Matlab, Bash, Python, AWK, Verilog, Perl)
+
+[//]: # (* **Operating Systems:** Ubuntu, Debian, RedHat, CentOS, Scientific Linux, Gentoo, Microsoft Windows)
+
+[//]: # (* **Simulators/Frameworks:** GEMS, gem5, SIMICS, PyTorch)
+
+[//]: # (* **Web Design:** Dreamweaver, Drupal)
+
+[//]: # (* **Other:** Machine Shop Certified )
 
