@@ -51,8 +51,9 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> GoldenEye is featured in the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/) as the System Design & Analysis challenge problem! 
-* Co-organized the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
+* <span style="color:red">**New:**</span> [Dec 2022] Our paper titled "MAVFI: An End-to-End Fault Analysis Framework with Anomaly Detection and Recovery for Micro Aerial Vehicles" has been accepted for publication at [DATE 2023](https://www.date-conference.com/)! 
+* [Oct 2022] GoldenEye is featured in the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/) as the System Design & Analysis challenge problem! 
+* [Oct 2022] Co-organized the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
 * [GoldenEye](https://github.com/ma3mool/goldeneye) is open sourced! Check it out and let us know what you think! 
 * "GoldenEye: A Platform for Evaluating Emerging Numerical Data Formats in DNN Accelerators" has been accepted to [DSN 2022](https://dsn2022.github.io/)! Paper and code to appear soon!
 * "A Dataflow-Aware Fault Resilience Analysis Framework for DNN Accelerators" has been accepted for publication at [YArch 2022](https://web.mit.edu/yarch2022/index.html)!
