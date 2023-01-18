@@ -51,6 +51,7 @@ Research Interests:
 
 News: 
 ======
+* <span style="color:red">**New:**</span> [Jan 2023] Excited to join the [YArch 2023](https://web.mit.edu/yarch2023/) program committee! Submit your best work!
 * <span style="color:red">**New:**</span> [Dec 2022] Our paper titled "MAVFI: An End-to-End Fault Analysis Framework with Anomaly Detection and Recovery for Micro Aerial Vehicles" has been accepted for publication at [DATE 2023](https://www.date-conference.com/)! 
 * [Oct 2022] GoldenEye is featured in the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/) as the System Design & Analysis challenge problem! 
 * [Oct 2022] Co-organized the [JOBS Workshop](https://sites.google.com/cornell.edu/jobs-micro-2022) at MICRO 2022!
