@@ -39,8 +39,6 @@ a contributing feature article writer at [TechSpot.com](https://www.techspot.com
 
 If you are a student or researcher (or both!), please feel free to reach out to me by email!
 
-<span style="color:red">**I am currently on the academic job market!**</span>
-
 Research Interests: 
 ======
 * Computer Architecture
