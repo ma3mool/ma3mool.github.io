@@ -42,14 +42,18 @@ If you are a student or researcher (or both!), please feel free to reach out to 
 Research Interests: 
 ======
 * Computer Architecture
+* Machine Learning
 * Reliability
 * Software Testing
-* Machine Learning
 * Approximate Computing
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Feb 2023] Our paper titled "ApproxCaliper: A Programmable Framework for Application-aware Neural Network Optimization" has been accepted for publication at [MLSys 2023](https://mlsys.org/)!
+* <span style="color:red">**New:**</span> [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
+* [Jun 2023] Serving on the ICCD 2023 PC.
+* [Jun 2023] Excited to help organize the [uArch 2023](https://sites.google.com/wisc.edu/5thuarchworkshop/home) workshop!
+* [Apr 2023] Serving on the MICRO 2023 PC.
+* [Feb 2023] Our paper titled "ApproxCaliper: A Programmable Framework for Application-aware Neural Network Optimization" has been accepted for publication at [MLSys 2023](https://mlsys.org/)!
 * [Jan 2023] Excited to join the [YArch 2023](https://web.mit.edu/yarch2023/) program committee! Submit your best work!
 * [Dec 2022] Our paper titled "MAVFI: An End-to-End Fault Analysis Framework with Anomaly Detection and Recovery for Micro Aerial Vehicles" has been accepted for publication at [DATE 2023](https://www.date-conference.com/)! 
 * [Oct 2022] GoldenEye is featured in the [2022 ICCAD Cadathlon](https://www.sigda.org/sigda-events/cadathlon/) as the System Design & Analysis challenge problem! 
