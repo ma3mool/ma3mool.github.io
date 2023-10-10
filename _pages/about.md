@@ -49,7 +49,8 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
+* <span style="color:red">**New:**</span> [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
+* [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
 * [Jun 2023] Serving on the ICCD 2023 PC.
 * [Jun 2023] Excited to help organize the [uArch 2023](https://sites.google.com/wisc.edu/5thuarchworkshop/home) workshop!
 * [Apr 2023] Serving on the MICRO 2023 PC.
