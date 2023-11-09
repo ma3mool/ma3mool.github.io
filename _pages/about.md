@@ -26,7 +26,7 @@ the [RSim Research Group](http://rsim.cs.illinois.edu/). During my graduate stud
 I was very fortunate to be the recipient of the 
 [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), to be invited
 to the [7th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/), 
-and to recieve multiple awards for teaching and
+and to receive multiple awards for teaching and
 mentoring undergraduate students. Prior to joining UIUC, I completed my BSE from
 [Princeton University](https://ece.princeton.edu/), where I was the recipient of the 
 John Ogden Bigelow Jr. Prize in Electrical Engineering. 
@@ -49,7 +49,9 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
+* <span style="color:red">**New:**</span> [Nov 2023] "Silent Data Corruption in Robot Operating System: A Case for End-to-End System-Level Fault Analysis Using Autonomous UAVs" has been accepted to IEEE TCAD!
+* <span style="color:red">**New:**</span> [Oct 2023] "VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers" has been accepted as a short paper to [IISWC 2023](https://iiswc.org/iiswc2023/#/)!
+* [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
 * [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
 * [Jun 2023] Serving on the ICCD 2023 PC.
 * [Jun 2023] Excited to help organize the [uArch 2023](https://sites.google.com/wisc.edu/5thuarchworkshop/home) workshop!
