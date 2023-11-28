@@ -3,7 +3,7 @@ title: "Hardware Resilience Properties of Text-Guided Image Classifiers"
 authors: "Syed Talal Wasim, Kabila Haile Saboka, <u>Abdulrahman Mahmoud</u>, Salman Khan, David Brooks, Gu-Yeon Wei"
 collection: publications
 permalink: /publication/neurips23.html
-date: 2022-12-10
+date: 2023-12-10
 venue: 'Conference on Neural Information Processing Systems'
 venue_type: conference
 conf_shorthand: 'NeurIPS'
