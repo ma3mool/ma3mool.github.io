@@ -3,7 +3,7 @@ title: "Silent Data Corruption in Robot Operating System: A Case for End-to-End 
 authors: "Yu-Shun Hsiao, Zishen Wan, Tianyu Jia, Radhika Ghosal, <u>Abdulrahman Mahmoud</u>, Arjit Raychowdhury, David Brooks, Gu-Yeon Wei, Vijay Janapa Reddi"
 collection: publications
 permalink: /publication/tcad23.html
-date: 2023-12-31
+date: 2023-12-01
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems'
 venue_type: journal
 conf_shorthand: 'TCAD'
