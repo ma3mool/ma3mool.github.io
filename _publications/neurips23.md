@@ -10,6 +10,6 @@ conf_shorthand: 'NeurIPS'
 location: New Orleans, Louisiana
 acceptance_rate: 26.0%
 paperurl: "https://arxiv.org/abs/2311.14062"
-citation: "Syed Talal Wasim, Kabila Haile Saboka, <b>Abdulrahman Mahmoud</b>, Salman Khan, David Brooks, Gu-Yeon Wei. 2022. &quot;Hardware Resilience Properties of Text-Guided Image Classifiers,&quot; <i> 2023 Conference on Neural Information Prcessing Systems (NeurIPS)</i>, New Orleans, Louisiana 2023."
+citation: "Syed Talal Wasim, Kabila Haile Saboka, <b>Abdulrahman Mahmoud</b>, Salman Khan, David Brooks, Gu-Yeon Wei. &quot;Hardware Resilience Properties of Text-Guided Image Classifiers,&quot; <i> 2023 Conference on Neural Information Processing Systems (NeurIPS)</i>, New Orleans, Louisiana 2023."
 other: <font color="red"><b><a href="https://github.com/TalalWasim/TextGuidedResilience">Our code is open-sourced, available here!</a></b></font>
 ---
