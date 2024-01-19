@@ -49,10 +49,11 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Dec 2023] Our [NeurIPS paper](https://arxiv.org/abs/2311.14062) and [code](https://github.com/TalalWasim/TextGuidedResilience) are now public!
+* <span style="color:red">**New:**</span> [Jan 2024] [Our paper](https://arxiv.org/abs/2309.14396) titled "Guess & Sketch: Language Model Guided Transpilation" has been accepted to [ICLR 2024](https://iclr.cc/)!
+* [Dec 2023] Our [NeurIPS paper](https://arxiv.org/abs/2311.14062) and [code](https://github.com/TalalWasim/TextGuidedResilience) are now public!
 * [Nov 2023] "Silent Data Corruption in Robot Operating System: A Case for End-to-End System-Level Fault Analysis Using Autonomous UAVs" has been accepted to IEEE TCAD!
 * [Oct 2023] "VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers" has been accepted as a short paper to [IISWC 2023](https://iiswc.org/iiswc2023/#/)!
-* [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
+* [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
 * [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
 * [Jun 2023] Serving on the ICCD 2023 PC.
 * [Jun 2023] Excited to help organize the [uArch 2023](https://sites.google.com/wisc.edu/5thuarchworkshop/home) workshop!
