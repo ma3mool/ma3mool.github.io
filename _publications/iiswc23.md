@@ -8,6 +8,6 @@ venue: 'International Symposium on Workload Characterization'
 venue_type: conference
 conf_shorthand: 'IISWC'
 location: Vancouver, Canada 
-paperurl: /files/23-IISWC-quantum-short.pdf
+paperurl: /files/24-IISWC-velocity.pdf
 citation: "Alexander Hankin, <b>Abdulrahman Mahmoud</b>, Mark Hempstead, David Brooks, Gu-Yeon Wei. 2024. &quot;VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers,&quot; <i>International Symposium on Workload Characterization (IISWC)</i>, Vancouver, Canada 2024."
 ---
