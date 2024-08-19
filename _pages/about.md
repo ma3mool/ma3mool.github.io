@@ -47,7 +47,7 @@ Research Interests:
 ======
 * HW/SW/AI Robustness 
 * ML for Systems
-* Systems for ML
+* Systems for ML 
 * GPU/Accelerator design
 * Sustainable Computing
 
