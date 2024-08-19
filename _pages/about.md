@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher in computer science at 
-[Harvard University](https://www.seas.harvard.edu/computer-science), working 
-with Dr. David Brooks and Dr. Gu-Yeon Wei in the [Harvard Architecture, Circuits, and 
-Compilers Group](https://vlsiarch.eecs.harvard.edu/). 
+I am an assistant professor of Computer Science at the [Mohamed Bin Zayed University of AI (MBZUAI)](https://mbzuai.ac.ae) in Abu Dhabi. 
 My research interests are in the areas of computer architecture, software system design, and machine learning,
 with the goal of co-designing future ML systems for high performance, scalable reliability, and intelligent resources
 allocation.
@@ -20,6 +17,10 @@ allocation.
 [//]: # (tolerance, by designing tools and techniques to help understand how)
 [//]: # (hardware errors propagate and affect software.)
 
+Before starting as a professor, I was a postdoc researcher in computer science at
+[Harvard University](https://www.seas.harvard.edu/computer-science), working
+with Dr. David Brooks and Dr. Gu-Yeon Wei in the [Harvard Architecture, Circuits, and
+Compilers Group](https://vlsiarch.eecs.harvard.edu/). 
 I completed my PhD at UIUC
 under the guidance of [Dr. Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) in 
 the [RSim Research Group](http://rsim.cs.illinois.edu/). During my graduate studies, 
@@ -37,7 +38,10 @@ Computer Architecture Student Association ([CASA](https://www.sigarch.org/casa/)
 In my free time, I enjoy watching documentaries, playing soccer, and I am
 a contributing feature article writer at [TechSpot.com](https://www.techspot.com/). 
 
-If you are a student or researcher (or both!), please feel free to reach out to me by email!
+[//]: # (If you are a student or researcher &#40;or both!&#41;, please feel free to reach out to me by email!)
+<span style="color:red">**I am actively recruiting students!**</span> 
+If you are interested in joining my group as a Research Assistant (RA), PhD student, or Postdoc, please
+[fill out this form](https://forms.gle/xJKmcBn93j9Whqw97) and send a brief email once you do!
 
 Research Interests: 
 ======
