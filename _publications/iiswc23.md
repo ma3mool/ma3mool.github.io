@@ -1,5 +1,5 @@
 ---
-title: "VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers"
+title: "Exploring the Impact of Weak Links Between Chains in Trapped Ion Quantum Computers"
 authors: "Alexander Hankin, <u>Abdulrahman Mahmoud</u>, Mark Hempstead, David Brooks, Gu-Yeon Wei"
 collection: publications
 permalink: /publication/iiswc24.html
@@ -9,5 +9,5 @@ venue_type: conference
 conf_shorthand: 'IISWC'
 location: Vancouver, Canada 
 paperurl: /files/24-IISWC-velocity.pdf
-citation: "Alexander Hankin, <b>Abdulrahman Mahmoud</b>, Mark Hempstead, David Brooks, Gu-Yeon Wei. 2024. &quot;VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers,&quot; <i>International Symposium on Workload Characterization (IISWC)</i>, Vancouver, Canada 2024."
+citation: "Alexander Hankin, <b>Abdulrahman Mahmoud</b>, Mark Hempstead, David Brooks, Gu-Yeon Wei. 2024. &quot;Exploring the Impact of Weak Links Between Chains in Trapped Ion Quantum Computers,&quot; <i>International Symposium on Workload Characterization (IISWC)</i>, Vancouver, Canada 2024."
 ---
