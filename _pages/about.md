@@ -43,16 +43,21 @@ Research Interests:
 ======
 * Computer Architecture
 * Machine Learning
-* Reliability
-* Software Testing
-* Approximate Computing
+* GPU/Accelerator design
+* HW/SW/AI Robustness 
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Jan 2024] [Our paper](https://arxiv.org/abs/2309.14396) titled "Guess & Sketch: Language Model Guided Transpilation" has been accepted to [ICLR 2024](https://iclr.cc/)!
+* <span style="color:red">**New:**</span> [Aug 2024] I have started a new position as a tenure-track assistant professor in the Computer Science department at [MBZUAI](https://mbzuai.ac.ae)!
+* <span style="color:red">**New:**</span> [Aug 2024] [Machine Learning Systems](https://mlsysbook.ai) book is out! It was a pleasure to be able to contribute to the chapter on [Robust AI](https://mlsysbook.ai/contents/robust_ai/robust_ai.html)! Please [star](https://github.com/harvard-edge/cs249r_book) the book on github!
+* <span style="color:red">**New:**</span> [Aug 2024] "VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers" has been accepted to [IISWC 2024](https://iiswc.org/iiswc2024/)!
+* [Jul 2024] The ML and Systems Rising Stars workshop was held at NVIDIA! Check out the [2024 Rising Stars](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)!
+* [Jun 2024] [PyTorchFI](https://www.pytorchfi.dev) has been downloaded more than 50,000x and eclipsed 100 citations! If you haven't already started using it for AI/HW robustness, you can `pip install pytorchfi`!
+* [May 2024] Guess & Sketch [presented](https://medium.com/@celine.y.lee/neurosymbolic-assembly-transpilation-a28a4f4ca50c) at ICLR. Congrats Celine!
+* [Apr 2024] Our paper on [PFAS](https://hotethics.github.io/papers/Elgamal_Hotethics24.pdf) in computing systems presented at [HotEthics Workshop](https://hotethics.github.io) (co-located with ASPLOS 2024). Congrats Mariam!
+* [Jan 2024] [Our paper](https://arxiv.org/abs/2309.14396) titled "Guess & Sketch: Language Model Guided Transpilation" has been accepted to [ICLR 2024](https://iclr.cc/)!
 * [Dec 2023] Our [NeurIPS paper](https://arxiv.org/abs/2311.14062) and [code](https://github.com/TalalWasim/TextGuidedResilience) are now public!
 * [Nov 2023] "Silent Data Corruption in Robot Operating System: A Case for End-to-End System-Level Fault Analysis Using Autonomous UAVs" has been accepted to IEEE TCAD!
-* [Oct 2023] "VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers" has been accepted as a short paper to [IISWC 2023](https://iiswc.org/iiswc2023/#/)!
 * [Sept 2023] "Hardware Resilience Properties of Text-Guided Image Classifiers" has been accepted to [NeurIPS 2023](https://nips.cc/)!
 * [Aug 2023] Launched the new [ML and Systems Rising Stars program](https://mlcommons.org/en/rising-stars-2023/)!
 * [Jun 2023] Serving on the ICCD 2023 PC.
