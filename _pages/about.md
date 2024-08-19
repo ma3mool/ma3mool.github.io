@@ -45,10 +45,11 @@ If you are interested in joining my group as a Research Assistant (RA), PhD stud
 
 Research Interests: 
 ======
-* Computer Architecture
-* Machine Learning
-* GPU/Accelerator design
 * HW/SW/AI Robustness 
+* ML for Systems
+* Systems for ML
+* GPU/Accelerator design
+* Sustainable Computing
 
 News: 
 ======
