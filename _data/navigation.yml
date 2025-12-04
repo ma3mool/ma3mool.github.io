@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
- 
+
   - title: "CV"
     url: /cv/
   
@@ -14,7 +14,10 @@ main:
     
 #  - title: "Blog"
 #    url: /year-archive/
-  
+
+  - title: "News"
+    url: /news/
+
   - title: "Contact"
     url: /contact/
   
