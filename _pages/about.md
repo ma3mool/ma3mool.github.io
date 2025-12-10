@@ -53,7 +53,7 @@ Research Interests:
 News: 
 ======
 * <span style="color:red">**New:**</span> [Dec 2025] Thank you Google for the Gemini Academic Program award ($50,000 Gemini Credit)!
-* <span style="color:red">**New:**</span> [Dec 2025] Gave an keynote talk at MusiML workshop, co-located with NeurIPS, titled: "Speaking in Tongues: Binary, Language Models, and Neural Signals".
+* <span style="color:red">**New:**</span> [Dec 2025] Delivered keynote at MusiML workshop, co-located with NeurIPS, titled: "Speaking in Tongues: Binary, Language Models, and Neural Signals".
 * [Oct 2025] Our [paper](https://arxiv.org/abs/2506.14606) titled, "Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees" is accepted to EMNLP 2025!
 * [Sept 2025] Thank you to the United Al-Saqar Group for funding our research on, "Real-time, Privacy Preserving Spike Sorting for BCIs", w/ co-PIs [Nils Lukas](https://nilslukas.github.io/) and Elizabeth Churchill! (500,000 AED)!
 * [Aug 2025] [Dongning Ma]() joins our group as a Postdoctoral Associate!
