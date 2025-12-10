@@ -5,6 +5,8 @@ excerpt: "News"
 author_profile: true
 ---
 
+* [Aug 2024] [Machine Learning Systems](https://mlsysbook.ai) book is out! It was a pleasure to be able to contribute to the chapter on [Robust AI](https://mlsysbook.ai/contents/robust_ai/robust_ai.html)! Please [star](https://github.com/harvard-edge/cs249r_book) the book on github!
+* [Aug 2024] Our paper, "Exploring the Impact of Weak Links Between
 * [Jul 2024] The ML and Systems Rising Stars workshop was held at NVIDIA! Check out the [2024 Rising Stars](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)!
 * [Jun 2024] [PyTorchFI](https://www.pytorchfi.dev) has been downloaded more than 50,000x and eclipsed 100 citations! If you haven't already started using it for AI/HW robustness, you can `pip install pytorchfi`!
 * [May 2024] Guess & Sketch [presented](https://medium.com/@celine.y.lee/neurosymbolic-assembly-transpilation-a28a4f4ca50c) at ICLR. Congrats Celine!

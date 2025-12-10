@@ -46,14 +46,18 @@ If you are interested in joining my group as a Research Assistant (RA), PhD stud
 Research Interests: 
 ======
 * HW/SW/AI Robustness 
-* ML for Systems
-* Systems for ML 
-* GPU/Accelerator design
+* [ML for [Systems] for ML]
+* HW/SW Codesign for BCI
 * Sustainable Computing
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Aug 2024] I have started a new position as a tenure-track assistant professor in the Computer Science department at [MBZUAI](https://mbzuai.ac.ae)!
-* <span style="color:red">**New:**</span> [Aug 2024] [Machine Learning Systems](https://mlsysbook.ai) book is out! It was a pleasure to be able to contribute to the chapter on [Robust AI](https://mlsysbook.ai/contents/robust_ai/robust_ai.html)! Please [star](https://github.com/harvard-edge/cs249r_book) the book on github!
-* <span style="color:red">**New:**</span> [Aug 2024] Our paper, "Exploring the Impact of Weak Links Between
-Chains in Trapped Ion Quantum Computers" has been accepted to [IISWC 2024](https://iiswc.org/iiswc2024/)!
+* <span style="color:red">**New:**</span> [Dec 2025] Thank you Google for the Gemini Academic Program award ($50,000 Gemini Credit)!
+* <span style="color:red">**New:**</span> [Dec 2025] Gave an keynote talk at MusiML workshop, co-located with NeurIPS, titled: "Speaking in Tongues: Binary, Language Models, and Neural Signals".
+* [Oct 2025] Our [paper](https://arxiv.org/abs/2506.14606) titled, "Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees" is accepted to EMNLP 2025!
+* [Sept 2025] Thank you to the United Al-Saqar Group for funding our research on, "Real-time, Privacy Preserving Spike Sorting for BCIs", w/ co-PIs [Nils Lukas](https://nilslukas.github.io/) and Elizabeth Churchill! (500,000 AED)!
+* [Aug 2025] [Dongning Ma]() joins our group as a Postdoctoral Associate!
+* [Aug 2025] Alex Pretko joins our group as a PhD candidate!
+* [Jun 2025] Our paper "Wafer-Scale Systems: A Carbon Perspective" is accepted to HotCarbon 2025!
+* [May 2025] That's a wrap! The [ML and Systems Rising Stars](https://mlcommons.org/2025/06/2025-mlc-rising-stars/) workshop was a success! Thanks Meta for hosting, and MLC for sponsoring!
+* [Aug 2024] I have started a new position as a tenure-track assistant professor in the Computer Science department at [MBZUAI](https://mbzuai.ac.ae)!
