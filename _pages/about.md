@@ -46,7 +46,7 @@ If you are interested in joining my group as a Research Assistant (RA), PhD stud
 Research Interests: 
 ======
 * HW/SW/AI Robustness 
-* [ML for [Systems] for ML]
+* <span style="color:green;">[</span><span style="color:green;">ML</span> for <span style="color:red;">[</span>Systems<span style="color:green;">]</span> for <span style="color:red;">ML</span><span style="color:red;">]</span>
 * HW/SW Codesign for BCI
 * Sustainable Computing
 
