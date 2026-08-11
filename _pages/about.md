@@ -40,7 +40,7 @@ a contributing feature article writer at [TechSpot.com](https://www.techspot.com
 
 [//]: # (If you are a student or researcher &#40;or both!&#41;, please feel free to reach out to me by email!)
 <span style="color:red">**I am actively recruiting students!**</span> 
-If you are interested in joining my group as a Research Assistant (RA), PhD student, or Postdoc, please
+If you are interested in joining my group as a Visiting Student (VS), PhD student, or Postdoc, please
 [fill out this form](https://forms.gle/xJKmcBn93j9Whqw97) and send a brief email once you do!
 
 Research Interests: 
@@ -52,10 +52,15 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [May 2026] Our paper titled, "Better Said Than Seen: Exposing and Mitigating Modality Collapse with ICD-11-Grounded Evaluation" is accepted at [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp)! 
-* <span style="color:red">**New:**</span> [May 2026] Our paper titled, "CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark" is accepted at [ACL 2026](https://2026.aclweb.org) main! 
-* <span style="color:red">**New:**</span> [Apr 2026] Our paper titled, "Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference" is accepted at [ICML 2026](ICML 2026)! 
-* <span style="color:red">**New:**</span> [Mar 2026] Our paper titled, "RHODES: Robust Optimization for Uncertainty-Aware Design of 
+* <span style="color:red">**New:**</span> [Aug 2026] Our MICCAI 2026 papar ("Better Said than Seen") accepted as a Spotlight presentation (<5% of accepted papers)!
+* <span style="color:red">**New:**</span> [July 2026] The 4th ML and Systems Rising Stars 2026 workshop is a wrap! [Congratulations](https://mlcommons.org/2026/05/2026-rising-stars/) to all the recipients! 
+* <span style="color:red">**New:**</span> [July 2026] Gave an invited talk at AMD titled, "Toward Performant, Portable, and Reliable GPU Computing." Thank you Ian Colbert for the invitation!
+* <span style="color:red">**New:**</span> [July 2026] Serving as an Area Chair for HPCA 2027. Submit your best work!
+* <span style="color:red">**New:**</span> [June 2026] Serving as an Associate Editor for Computer Architecture Letters (CAL). Submit your best work! 
+* [May 2026] Our paper titled, "Better Said Than Seen: Exposing and Mitigating Modality Collapse with ICD-11-Grounded Evaluation" is accepted at [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp)! 
+* [May 2026] Our paper titled, "CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark" is accepted at [ACL 2026](https://2026.aclweb.org) main! 
+* [Apr 2026] Our paper titled, "Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference" is accepted at [ICML 2026](ICML 2026)! 
+* [Mar 2026] Our paper titled, "RHODES: Robust Optimization for Uncertainty-Aware Design of 
   CO2-Efficient Computing System" is accepted at [ISCA 2026](https://iscaconf.org/isca2026/)! 
 * [Dec 2025] Thank you to the RISC-V Foundation and Google for funding our project on [AI Driven Software Porting to RISC-V](https://riscv.org/blog/call-for-proposals-ai-driven-software-porting-to-risc-v/) ($50,000 Gemini Credit)!
 * [Dec 2025] Delivered keynote at MusiML workshop, co-located with NeurIPS, titled: "Speaking in Tongues: Binary, Language Models, and Neural Signals".
