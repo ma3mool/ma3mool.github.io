@@ -52,7 +52,7 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Aug 2026] Our MICCAI 2026 papar ("Better Said than Seen") accepted as a Spotlight presentation (<5% of accepted papers)!
+* <span style="color:red">**New:**</span> [Aug 2026] 🏆 Our MICCAI 2026 papar ("Better Said than Seen") chosen as a Spotlight (<5% of accepted papers)!
 * <span style="color:red">**New:**</span> [July 2026] The 4th ML and Systems Rising Stars 2026 workshop is a wrap! [Congratulations](https://mlcommons.org/2026/05/2026-rising-stars/) to all the recipients! 
 * <span style="color:red">**New:**</span> [July 2026] Gave an invited talk at AMD titled, "Toward Performant, Portable, and Reliable GPU Computing." Thank you Ian Colbert for the invitation!
 * <span style="color:red">**New:**</span> [July 2026] Serving as an Area Chair for HPCA 2027. Submit your best work!
