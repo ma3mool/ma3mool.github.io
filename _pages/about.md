@@ -52,11 +52,12 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Aug 2026] 🏆 Our MICCAI 2026 paper ("Better Said than Seen") chosen as a Spotlight (<5% of accepted papers)!
-* <span style="color:red">**New:**</span> [July 2026] The 4th ML and Systems Rising Stars 2026 workshop is a wrap! [Congratulations](https://mlcommons.org/2026/05/2026-rising-stars/) to all the recipients! 
-* <span style="color:red">**New:**</span> [July 2026] Gave an invited talk at AMD titled, "Toward Performant, Portable, and Reliable GPU Computing." Thank you Ian Colbert for the invitation!
-* <span style="color:red">**New:**</span> [July 2026] Serving as an Area Chair for HPCA 2027. Submit your best work!
-* <span style="color:red">**New:**</span> [June 2026] Serving as an Associate Editor for Computer Architecture Letters (CAL). Submit your best work! 
+* <span style="color:red">**New:**</span> [Oct 2026] ShareMMU is accepted to [MICRO 2026](https://microarch.org/micro59/)!
+* [Aug 2026] 🏆 Our MICCAI 2026 paper ("Better Said than Seen") chosen as a Spotlight (<5% of accepted papers)!
+* [July 2026] The 4th ML and Systems Rising Stars 2026 workshop is a wrap! [Congratulations](https://mlcommons.org/2026/05/2026-rising-stars/) to all the recipients! 
+* [July 2026] Gave an invited talk at AMD titled, "Toward Performant, Portable, and Reliable GPU Computing." Thank you Ian Colbert for the invitation!
+* [July 2026] Serving as an Area Chair for HPCA 2027. Submit your best work!
+* [June 2026] Serving as an Associate Editor for Computer Architecture Letters (CAL). Submit your best work! 
 * [May 2026] Our paper titled, "Better Said Than Seen: Exposing and Mitigating Modality Collapse with ICD-11-Grounded Evaluation" is accepted at [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp)! 
 * [May 2026] Our paper titled, "CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark" is accepted at [ACL 2026](https://2026.aclweb.org) main! 
 * [Apr 2026] Our paper titled, "Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference" is accepted at [ICML 2026](ICML 2026)! 
