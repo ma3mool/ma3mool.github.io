@@ -52,7 +52,8 @@ Research Interests:
 
 News: 
 ======
-* <span style="color:red">**New:**</span> [Oct 2026] ShareMMU is accepted to [MICRO 2026](https://microarch.org/micro59/)!
+* <span style="color:red">**New:**</span> [Nov 2026] 🏆 Our team received an Honorable Mention award at the [Chia Hackathon](https://agentic-arch.org/hackathon.html) @ MICRO 2026!
+* [Oct 2026] ShareMMU is accepted to [MICRO 2026](https://microarch.org/micro59/)!
 * [Aug 2026] 🏆 Our MICCAI 2026 paper ("Better Said than Seen") chosen as a Spotlight (<5% of accepted papers)!
 * [July 2026] The 4th ML and Systems Rising Stars 2026 workshop is a wrap! [Congratulations](https://mlcommons.org/2026/05/2026-rising-stars/) to all the recipients! 
 * [July 2026] Gave an invited talk at AMD titled, "Toward Performant, Portable, and Reliable GPU Computing." Thank you Ian Colbert for the invitation!
